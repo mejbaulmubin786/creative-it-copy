@@ -1,0 +1,292 @@
+#news-header {
+    padding: 100px 10px;
+    gap: 10px;
+    background: #faf0f0;
+    margin-top: 100px;
+}
+
+#news-header h2 {
+    color: #cf0000;
+    font-family: "Inter", sans-serif;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#all-news {
+    margin: 100px 0;
+}
+.news_description {
+    margin-top: 50px;
+}
+.news_description .facilities_heading p {
+    padding: 0 !important;
+}
+
+.news-card .card-title {
+    color: #1f1e1e;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    margin-bottom: 20px;
+}
+.news-card .card-text {
+    color: #605f62;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+    margin-bottom: 20px;
+}
+.news-card a {
+    color: #605f62;
+    font-family: "Hind Siliguri", sans-serif !important;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    transition: all linear 0.3s;
+}
+
+.news-card a:hover {
+    color: #ff1e1e;
+}
+
+.news-card img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.news-card .card-body {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 25px !important;
+    padding-top: 28px !important;
+    padding-left: 29px !important;
+    padding-right: 29px !important;
+}
+
+/*========latest news css here===========*/
+#orientation {
+    margin: 100px 0;
+}
+
+#orientation .orientation-wrapper .news-card .card-text {
+    margin-bottom: 0;
+}
+
+#latest-post {
+    margin-bottom: 70px;
+}
+
+#latest-post .latest-header h3 {
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    margin-bottom: 50px;
+}
+
+#latest-post .post-content h4 {
+    color: #1f1e1e;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+#latest-post .post-content p {
+    color: #605f62;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    padding-top: 6px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+    margin-bottom: 20px;
+}
+#latest-post .post-content a {
+    color: #000;
+    font-family: "Hind Siliguri", sans-serif !important;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0.2px;
+    transition: all linear 0.3s;
+}
+
+#latest-post .post-content a:hover {
+    color: #ff1e1e;
+}
+#latest-post .event {
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    letter-spacing: 0.2px;
+    border-radius: 4px;
+    padding: 7px 12px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(57px);
+    top: 10px;
+    left: 10px;
+}
+
+#latest-post .category-content {
+    padding: 25px 10px 25px 25px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    max-width: 306px;
+}
+
+#latest-post .category-content h4 {
+    color: #1f1e1e;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+}
+
+#latest-post .category-content ul {
+    height: 314px;
+    overflow-y: scroll;
+}
+#latest-post .category-content ul li {
+    color: #cf0000;
+    list-style-type: disc !important;
+}
+#latest-post .category-content ul li a {
+    color: #605f62;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+    transition: all linear 0.3s;
+}
+#latest-post .category-content ul li a:hover {
+    color: #cf0000;
+}
+
+#latest-post .search-bar {
+    max-width: 306px;
+}
+
+/*========sticky  css here===========*/
+
+.category-content_sticky {
+    position: fixed;
+    top: 110px;
+    z-index: 2;
+    width: 100%;
+}
+.category-content_sticky .category-content {
+    top: 150px;
+}
+
+/*========single news css here===========*/
+
+#single-news {
+    margin: 100px 0;
+}
+#single-news .single-news-content {
+    margin-bottom: 120px;
+}
+#single-news .single-news-content h1 {
+    color: #1f1e1e;
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 30px 0;
+    letter-spacing: 0.2px;
+}
+#single-news .single-news-content p {
+    color: #605f62;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+}
+#single-news .comment-section h3 {
+    color: #1f1e1e;
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    margin-bottom: 30px;
+}
+#single-news .comment-section label {
+    color: #605f62;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.026px;
+}
+#single-news .comment-section .form-control {
+    color: #605f62;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.026px;
+}
+#single-news .comment-section span {
+    color: #777;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.2px;
+}
+#single-news .comment-section .send {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #fff;
+    background: linear-gradient(214.38deg, #ff8079 -2.24%, #ff1e1e 59.38%);
+    border-radius: 10px !important;
+    text-align: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 13px 19px;
+    cursor: pointer;
+    border-color: #ff1e1e;
+    transition: all linear 0.3s;
+}
+#single-news .comment-section .send:hover {
+    background: #fff;
+    color: #777;
+    border: 1px solid #ff706a;
+}
+
+.news_body_content img {
+    max-width: 100%;
+ }
+
+.news_body_content span {
+    display: contents;
+ }

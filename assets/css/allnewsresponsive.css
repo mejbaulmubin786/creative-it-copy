@@ -1,0 +1,86 @@
+
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    .news-card .card-title {
+        font-size: 24px;
+    }
+    #news-header {
+        padding: 60px 10px;
+    }
+
+    #news-header h3 {
+        font-size: 45px;
+    }
+
+    #all-news {
+        margin: 50px 0;
+    }
+
+    /*=====latest news responsive here====*/
+    #latest-post {
+        margin-top: 50px;
+    }
+    #orientation {
+        margin: 50px 0;
+    }
+    #latest-post .latest-header h3 {
+        font-size: 38px;
+    }
+    /*=====latest news sticky and block  here====*/
+    #mobile_width_block {
+        max-width: 100% !important;
+    }
+}
+@media (max-width: 575.98px){
+    #news-header {
+        padding: 50px 10px;
+    }
+    #news-header h3 {
+        font-size: 38px;
+    }
+    #all-news {
+        margin: 50px 0;
+    }
+
+    /*=====single news responsive here====*/
+    #single-news {
+        margin: 50px 0;
+    }
+    #single-news .single-news-content h3 {
+        font-size: 27px;
+        margin: 25px 0;
+        line-height: 27px;
+    }
+    #single-news .comment-section h3 {
+        font-size: 27px;
+    }
+    #single-news .single-news-content {
+        margin-bottom: 50px;
+    }
+    #latest-post {
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    /*=====latest news responsive here====*/
+    #orientation {
+        margin: 50px 0;
+    }
+    #latest-post .latest-header h3 {
+        font-size: 27px;
+        margin-bottom: 30px;
+    }
+    #latest-post .mobile-padding{
+        padding-left: 16px!important;
+    } 
+    #latest-post .border-padding-mobile{
+        padding-top: 25px!important;
+    } 
+    #latest-post .post-content{
+        padding: 20px 10px!important;
+    }
+
+    /*=====latest news sticky and block  here====*/
+    #mobile_width_block{
+       max-width: 100%!important;
+    }
+}

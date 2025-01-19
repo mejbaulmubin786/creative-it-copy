@@ -1,0 +1,5305 @@
+@media (min-width: 1400px) {
+
+	.countdown_sm_device {
+		display: none;
+	}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.countdown_sm_device {
+		display: none;
+	}
+	/* =================================================
+				Alamin Part Start
+	================================================= */
+	.main_slider_courses .course_slider_top .course_slider_item {
+		background: #ffffff;
+		width: 225px !important;
+		height: 157px;
+		border-radius: 20px;
+		-webkit-border-radius: 20px;
+		-moz-border-radius: 20px;
+		-ms-border-radius: 20px;
+		-o-border-radius: 20px;
+		padding: 15px;
+		-webkit-box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.06);
+		box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.06);
+		margin: 20px 0;
+		margin-right: 24px;
+	}
+
+	.one {
+		top: 104px !important;
+	}
+	/* =================================================
+				Alamin Part End
+	================================================= */
+
+	/*========================================= Blog DetailsPage Start======================================== */
+	.tag_share {
+		margin-top: 33px;
+		flex-wrap: wrap;
+	}
+
+	.tag_share .tag {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.tag_share .share {
+		margin-top: 30px;
+	}
+
+	.tag_share .share a {
+		background: #ffffff;
+		margin-left: 15px;
+		text-align: center;
+		line-height: 36px;
+		box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.06);
+		border-radius: 50%;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		-ms-border-radius: 50%;
+		-o-border-radius: 50%;
+	}
+	.related_post {
+		padding-bottom: 76px;
+	}
+	/*========================================= Blog DetailsPage End======================================== */
+
+	/*========================================= Blog Page Start======================================== */
+	.blog_heading_search .page_heading h3 {
+		padding-top: 10px;
+		}
+		.main_blog_grid .single_blog_top .image img {
+		max-height: 137px;
+		}
+	/*========================================= Blog Page End======================================== */
+
+	/*========================================= Contact Us Page Start======================================== */
+	form.student_form .form-floating select,
+	form.student_form .form-floating textarea {
+	padding: 17px 5px;
+	}
+
+	.course_free_facilities_btn {
+	text-align: center;
+	}
+
+	#question .f_Q {
+	padding-bottom: 30px;
+	}
+	/*========================================= Contact Us Page End======================================== */
+
+	/*========================================= instructors-and-teacher Page Start======================================== */
+	.instructors_item {
+		justify-content: center;
+		}
+		.instructors_item>.text {
+		margin-left: 0;
+		}
+		.instructors_item>.image {
+		margin-left: 0;
+		margin-right: 50px;
+		}
+	/*========================================= instructors-and-teacher Page End======================================== */
+/* =================================================
+				training_department Part Start
+	================================================= */
+
+	/*========================================= Our Facilities Page Start======================================== */
+	.jobplacement_partner ul li {
+		width: 31%;
+		margin-bottom: 16px;
+		}
+		.jobplacement_partner {
+		background: #FFFFFF;
+		border-radius: 28px;
+		padding-top: 8px;
+		padding-right: 15px;
+		padding-left: 15px;
+		padding-bottom: 10px;
+		}
+		.partner_all ul li{
+			width: 15.3%;
+		  }
+	/*========================================= Our Facilities Page End======================================== */
+
+	/*========================================= Jony Responsive Start======================================== */
+	#course_free_facilities .row .col-md-4:nth-child(3) .course_free_facilities_item .hover_play_video,
+	#course_free_facilities .row .col-md-4:nth-child(6) .course_free_facilities_item .hover_play_video {
+		left: 0;
+	}
+
+	.hover_play_video {
+		margin-left: 12px;
+		top: 42px;
+	}
+	/*========================================= Jony Responsive End======================================== */
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.training_department_main a {
+		width: 16%;
+		margin-right: 37px;
+	}
+    .course_single_item .course_text p,.course_single_item .course_text h3{
+        font-size: 16px;
+    }
+    .course_single_item .course_text ul li{
+        font-size: 11px;
+    }
+	/* =================================================
+				Navbar Part Start
+	================================================= */
+	.main_menu li.nav-item {
+		margin-right: 30px;
+	}
+
+	/* =================================================
+				Topbar Part End
+	================================================= */
+
+	/* =================================================
+			Banner Part Start
+	================================================= */
+
+	.pg_banner_text h4 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.pg_banner_text h1 {
+		font-size: 35px;
+		line-height: 54px;
+		padding-top: 4px;
+		padding-bottom: 14px;
+	}
+	.banner_text h1 {
+		font-size: 40px;
+	}
+	.banner_text h1 span {
+		font-size: 40px;
+		padding-top: 5px;
+	}
+
+	.banner_text h1 img {
+		z-index: -1;
+	}
+	.banner_text a.join_btn {
+		margin-right: 0;
+	}
+	.banner_img .dot_3 {
+		bottom: 10px;
+	}
+
+	.pg_banner_text ul li {
+		font-size: 16px;
+		line-height: normal;
+		padding: 14px 0;
+	}
+
+
+	.pg_banner_text .pg_banner_btn a {
+		line-height: 32px;
+		padding: 12px 30px;
+		padding-top: 14px;
+	}
+
+	.countdown_sm_device {
+		display: none;
+	}
+	/* =================================================
+				Banner Part End
+	================================================= */
+
+	/* =================================================
+				Course Department Area Start
+     ================================================== */
+	 .course_slider_top .course_slider_item {
+		margin: 25px 8px;
+	}
+	 .course_slider_top .course_slider_item a .couse_text h3 {
+		font-size: 16px;
+	}
+	/* =================================================
+				Course Department Area End
+     ================================================== */
+
+	/* =================================================
+			Alamin Popular Courses Area Start
+	================================================= */
+
+	#alamin {
+		padding-bottom: 40px;
+		margin-top: -20px;
+	}
+
+	.counte_item h3 {
+		font-size: 17px;
+		line-height: 26px;
+	}
+
+	.counte_item {
+		margin: 0 18px;
+		padding: 24px;
+	}
+	 .course_mix_btn button {
+		font-size: 12px;
+	}
+	.course_mix_btn button span {
+		padding-top: 9px;
+		padding-bottom: 9px;
+		border-bottom: 3px solid transparent;
+	}
+	/* =================================================
+			Alamin Popular Courses Area End
+	================================================= */
+
+	/* =================================================
+					Info Area Start
+	================================================= */
+	.story_text_slider {
+		position: relative;
+		margin-top: 20px;
+	}
+	/* =================================================
+					Info Area End
+	================================================= */
+
+	/* =================================================
+				pg Course overviwe Part Start
+	================================================= */
+	.course_overviwe_text {
+		padding: 40px 40px;
+	}
+
+	.course_overviwe_text h2 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+
+	.pgc_software {
+		padding: 40px;
+		margin-top: 45px;
+	}
+
+	.pgc_item ul li .pgcs_text p {
+		font-size: 18px;
+	}
+
+	.pgc_for_whom {
+		padding: 40px;
+		margin-top: 45px;
+	}
+
+	.pgcf_whom_item {
+		padding-top: 48px;
+		padding-bottom: 25px;
+	}
+
+	.pg_marketplace {
+		padding: 40px;
+		margin-top: 45px;
+	}
+
+	.pg_marketplace .marketplace_item {
+		min-height: 207px;
+		padding-left: 26px;
+		padding-right: 26px;
+	}
+
+	.pg_job {
+		padding: 40px;
+		margin-top: 45px;
+	}
+
+	.job_item ul li {
+		font-size: 22px;
+		margin-bottom: 26px;
+	}
+
+	.job_item ul li svg {
+		margin-right: 15px;
+	}
+
+	/* =================================================
+				pg Course overviwe Part End
+	================================================= */
+
+	/* =================================================
+		শিক্ষার্থিদের আরও যে সকল সুবিধা দিয়ে থাকি  Start
+	================================================= */
+	.pg_more_facilities_item {
+		padding: 20px;
+	}
+
+	.pgs_facilitice>h3 {
+		font-size: 25px;
+		padding-right: 6px;
+		line-height: 45px;
+	}
+
+	/* =================================================
+		 শিক্ষার্থিদের আরও যে সকল সুবিধা দিয়ে থাকি  End
+	================================================= */
+
+	/* =================================================
+		 আমাদের স্টুডেন্টদের ফিডব্যাক  Start
+	================================================= */
+	.pg_student_feedback h2 {
+		font-size: 25px;
+	}
+
+	.pgs_project h2 {
+		font-size: 25px;
+		line-height: 45px;
+		padding-bottom: 45px;
+	}
+
+	/* =================================================
+		  আমাদের স্টুডেন্টদের ফিডব্যাক  End
+	================================================= */
+
+	/* =================================================
+				More Facilities Part Start
+	================================================= */
+	#more_facilities {
+		padding-top: 0;
+		padding-bottom: 46px;
+	}
+	.more_facilities_item {
+		padding: 27px;
+	}
+
+
+	/* =================================================
+				More Facilities Part End
+	================================================= */
+
+	/* =================================================
+				Free Seminar Part Start
+	================================================= */
+	.seminar_content ul li .date {
+		width: 90px;
+	}
+
+	.seminar_content ul li .text_main .text h4 {
+		font-size: 17px;
+		line-height: 18px;
+	}
+	.seminar_content ul li .text_main .text p {
+		padding-right: 10px;
+	}
+
+	/* =================================================
+				Free Seminar Part End
+	================================================= */
+
+	/* =================================================
+				12 years of glory Part Start
+	================================================= */
+	.glory_text h2 {
+		font-size: 37px;
+		line-height: 51px;
+	}
+
+	/* =================================================
+				12 years of glory Part End
+	================================================= */
+
+	/* =================================================
+				Index blog Part Start
+	================================================= */
+	.blog_item .blog_text h3 {
+		font-size: 16px;
+		line-height: 25px;
+	}
+
+	.blog_item .blog_text p {
+		padding-bottom: 14px;
+	}
+
+	/* =================================================
+				Index blog Part End
+	================================================= */
+
+
+	/*===================== About Us Page Start ==========================*/
+	.orjon {
+		padding-top: 7px;
+	}
+
+	.orjon ul li {
+		display: inline-block;
+		margin-right: 30px;
+	}
+
+	.iso_text p {
+		font-size: 15px;
+		line-height: 21px;
+	}
+
+
+	/*===================== About Us Page End ==========================*/
+
+
+	/*===================== Course Landing Page Responsive-2 Start ==========================*/
+	/* =================================================
+				Pg For Whom Start
+	================================================= */
+	#pro_gra_forwhom h2 {
+		font-size: 40px;
+		line-height: 50px;
+		padding-bottom: 30px;
+	}
+
+	.pg_succsess_story {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.pg_wait {
+		padding: 23px 20px;
+	}
+
+	/* =================================================
+				Pg For Whom End
+	================================================= */
+	/*===================== Course Landing Page Responsive-2 End ==========================*/
+
+
+	/*===================== Success Story Part Start ==========================*/
+	.success_menu ul li {
+		margin-right: 25px;
+	}
+	.success_menu ul li .company_nav_tab {
+		font-size: 15px;
+	}
+	/*===================== Success Story Part End ==========================*/
+
+
+
+	/* =================================================
+				Footer Part Start
+	================================================= */
+	.footer_item_1 ul li .footer_text {
+		font-size: 14px;
+	}
+
+	.footer_item_1 ul li .footer_text span a {
+		font-size: 14px;
+	}
+
+	.footer_item_2 ul li a {
+		font-size: 14px;
+		line-height: 20px;
+	}
+
+	#footer .padding_0 {
+		padding: 0;
+	}
+
+	.copy {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* =================================================
+				Footer Part End
+	================================================= */
+
+	/* =================================================
+				Copy Part Start
+	================================================= */
+	.copy {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	/* =================================================
+				Copy Part End
+	================================================= */
+
+	/*========================================= Blog DetailsPage Start======================================== */
+	.tag_share {
+		margin-top: 33px;
+		flex-wrap: wrap;
+	}
+
+	.tag_share .tag {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.tag_share .share {
+		margin-top: 30px;
+	}
+
+	.tag_share .share a {
+		background: #ffffff;
+		margin-left: 15px;
+		text-align: center;
+		line-height: 36px;
+		box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.06);
+		border-radius: 50%;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		-ms-border-radius: 50%;
+		-o-border-radius: 50%;
+	}
+	.related_post {
+		padding-bottom: 76px;
+	}
+	/*========================================= Blog DetailsPage End======================================== */
+
+	/*========================================= Blog Page Start======================================== */
+	.small_blog .layer_text .text h3 {
+		font-size: 16px;
+		line-height: 23px;
+		padding-top: 15px;
+		padding-bottom: 10px;
+		}
+		.main_blog_grid .small_blog{
+		height: 205px;
+		}
+		.main_blog_grid .single_blog_top{
+		height: 205px;
+		}
+		.blog_heading_search .page_heading h3 {
+		padding-top: 12px;
+		}
+		#letest_poet .letest_post_slider .post_item .text h3 {
+		font-size: 17px;
+		font-weight: 600;
+		line-height: 29px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		}
+		.all_blog_item {
+		border: 0.5px solid rgba(0, 0, 0, 0.1);
+		border-radius: 20px;
+		gap: 0 0;
+		margin-bottom: 22px;
+		overflow: hidden;
+		justify-content: space-between;
+		}
+
+		.all_blog_item .image {
+		flex-basis: auto;
+		width: 48%;
+		}
+
+		.all_blog_item .text {
+		flex-basis: auto;
+		width: 50%;
+		padding-right: 14px;
+		}
+		#all_blog .dots_victor {
+		bottom: -19px;
+		transform: scale(.8);
+		}
+		.pagination_btn {
+		padding-bottom: 50px;
+		}
+	/*========================================= Blog Page End======================================== */
+
+	/*========================================= Contact Us Page Start======================================== */
+		form.student_form .form-floating select,
+		form.student_form .form-floating textarea {
+		padding: 17px 5px;
+		}
+		.course_free_facilities_btn {
+		margin-top: 70px;
+		padding-bottom: 70px;
+		text-align: center;
+		}
+		#question .f_Q{
+		padding-bottom: 30px;
+		}
+		#office_2 {
+		padding-bottom: 90px;
+		}
+	/*========================================= Contact Us Page End======================================== */
+
+	/*========================================= instructors-and-teacher Page Start======================================== */
+	.instructor_profile_inner_item .inner_icon img {
+		margin-right: 4px;
+		}
+		.course_single_item .course_text ul li {
+		margin-bottom: 15px;
+		}
+	/*========================================= instructors-and-teacher Page End======================================== */
+
+	/*========================================= Our Facilities Page Start======================================== */
+	.jobplacement_partner {
+		background: #FFFFFF;
+		border-radius: 28px;
+		padding-top: 20px;
+		padding-right: 20px;
+		padding-left: 20px;
+		padding-bottom: 20px;
+		}
+		.jobplacement_partner ul li {
+		width: 32%;
+		justify-content: center;
+		margin-bottom: 7px;
+		}
+	/*========================================= Our Facilities Page End======================================== */
+
+	/*========================================= Jony Responsive Start======================================== */
+	#course_free_facilities .row .col-md-4:nth-child(3) .course_free_facilities_item .hover_play_video,
+	#course_free_facilities .row .col-md-4:nth-child(6) .course_free_facilities_item .hover_play_video {
+		left: 0;
+	}
+
+	.hover_play_video {
+		margin-left: 12px;
+		width: 100%;
+		top: 42px;
+	}
+
+
+	/*========================================= Jony Responsive End======================================== */
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.side_text {
+		display: none;
+	}
+
+	#topbar {
+		display: none;
+	}
+	.demo{
+		margin-top: 20px;
+	}
+	/* =================================================
+				Navabar Start
+     ================================================== */
+	.navbar-brand {
+		white-space: nowrap;
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 26px;
+	}
+
+	.navbar-toggler {
+		padding: .25rem .75rem;
+		font-size: 1.25rem;
+		line-height: 1;
+		background-color: transparent;
+		border: 1px solid transparent;
+		border-radius: .25rem;
+		transition: box-shadow .15s ease-in-out;
+		position: absolute;
+		left: 20px;
+		top: 29px;
+	}
+
+	#navbarSupportedContent {
+		background: aliceblue;
+		text-align: center;
+	}
+
+	.main_menu li.nav-item {
+		margin-right: 0;
+	}
+
+	.navbar-toggler {
+		border: 0;
+	}
+
+	.navbar-toggler:focus {
+		text-decoration: none;
+		outline: 0;
+		box-shadow: 0 0 0 .25rem transparent;
+	}
+
+	#navbarSupportedContent {
+		background: aliceblue;
+		text-align: center;
+		position: absolute;
+		width: 100%;
+		top: 107px;
+		padding: 40px 0;
+	}
+
+	/* =================================================
+			Offcanvas Logo Part Start
+     ================================================== */
+	.logo img {
+		width: 150px;
+	}
+
+	/* =================================================
+			Offcanvas Logo Part End
+     ================================================== */
+
+	/* =================================================
+					Navbar End
+     ================================================== */
+
+	/* =================================================
+					Banner Part
+     ================================================== */
+	.banner_text h1 {
+		font-size: 40px;
+		padding-top: 8px;
+	}
+
+	.banner_text h1 span {
+		font-size: 40px;
+		padding-top: 0;
+	}
+
+	.banner_text {
+		padding-bottom: 40px;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.banner_text ul li {
+		text-align: left;
+		justify-content: center;
+	}
+
+	.banner_img {
+		text-align: center;
+	}
+
+	.banner_img .plus {
+		left: 81%;
+		top: -30px;
+	}
+
+	.banner_img .dot_3 {
+		left: 56px;
+		bottom: 102%;
+	}
+
+	.banner_img .dot_2 {
+		right: 75px;
+	}
+
+	/* =================================================
+					Banner Part End
+     ================================================== */
+
+	/* =================================================
+				Course Department Area Start
+     ================================================== */
+	 .course_slider_top .course_slider_item {
+		margin: 25px 5px;
+	}
+	 .course_slider_top .course_slider_item a .couse_text h3 {
+		font-size: 14px;
+	}
+	/* =================================================
+				Course Department Area End
+     ================================================== */
+
+
+	/* =================================================
+				Alamin Popular Courses Area Start
+     ================================================== */
+	#alamin {
+		padding-bottom: 0;
+	}
+
+	.slick-list.draggable {
+		padding-left: 0 !important;
+	}
+
+	/* =================================================
+				Alamin Popular Courses Area Start
+     ================================================== */
+
+	/* =================================================
+					Info Part Start
+     ================================================== */
+	.counte_item h4 {
+		font-size: 35px;
+		line-height: 35px;
+	}
+
+	.counte_item h3 {
+		font-size: 18px;
+		line-height: 33px;
+	}
+
+	/* =================================================
+					Info Part End
+     ================================================== */
+
+	/* =================================================
+		Student Success Story Area Satrt
+     ================================================== */
+	#student_success {
+		padding-bottom: 0;
+	}
+
+	.student_story_item {
+		margin-bottom: 30px;
+	}
+
+	/* =================================================
+		Student Success Story Area End
+     ================================================== */
+
+	/* =================================================
+			More Facilitis Area Satrt
+     ================================================== */
+	.student_feedback_item ul .student_social_link {
+		width: 30px;
+		height: 30px;
+	}
+
+	/* =================================================
+			Free Seminar Area End
+     ================================================== */
+
+
+	/* =================================================
+			Free Seminar Area Satrt
+     ================================================== */
+	#seminar {
+		padding-top: 48px;
+		padding-bottom: 30px;
+	}
+
+	.seminar {
+		padding: 48px 48px;
+	}
+
+	.seminar_content {
+		text-align: center;
+	}
+
+	.seminar_content>p {
+		margin: 0 auto;
+	}
+
+	.seminar_content h3 {
+		text-align: center;
+	}
+
+	.seminar_content ul li {
+		margin-bottom: 15px;
+	}
+
+	.seminar_content ul li:last-child {
+		margin-bottom: 0;
+	}
+
+	.seminar_content .seminar_btn {
+		padding-bottom: 22px;
+	}
+
+	.free_seminar_img {
+		text-align: center;
+	}
+
+	/* =================================================
+			Free Seminar Area Satrt
+     ================================================== */
+
+	/* =================================================
+			Practical Project Area Satrt
+     ================================================== */
+	.practical_project_img .prectical_dots {
+		right: 90%;
+	}
+
+	.practical_project_text {
+		max-width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		padding-top: 30px;
+	}
+
+	/* =================================================
+			Practical Project Area End
+     ================================================== */
+
+	/* =================================================
+			12 Years Glory Part Start
+     ================================================== */
+	#glory {
+		text-align: center;
+	}
+
+	/* Company Area Start==== */
+	.company_menu ul li .company_nav_tab {
+		padding: 10px 0;
+	}
+
+	/* Blog Area Start============== */
+	.blog_item {
+		margin-bottom: 30px;
+	}
+
+	/* =================================================
+			12 Years Glory Part End
+     ================================================== */
+
+	/* ====================== Desing And Multimedia Page Responsive Start ========================== */
+	.facilities_heading p.desing_multi_peragraph {
+		padding-bottom: 45px;
+	}
+
+	.admission_item.course_single_item {
+		margin-bottom: 25px;
+		margin-top: 0;
+	}
+
+	/* ====================== Desing And Multimedia Page Responsive End ========================== */
+
+	/*===================== About Us Page Responsive Start ==========================*/
+	.facilities_heading {
+		text-align: center;
+	}
+
+	.facilities_heading h2 {
+		font-size: 40px;
+		line-height: 50px;
+		padding-bottom: 20px;
+		text-align: center;
+	}
+
+	.facilities_heading p {
+		padding-bottom: 0;
+	}
+
+	/* =================================================
+					Glory Part Start
+     ================================================== */
+	.glory_text h2 {
+		padding: 0 50px;
+	}
+
+	.glory_text p {
+		text-align: left;
+	}
+
+	/* =================================================
+					Glory Part End
+     ================================================== */
+
+
+	 /* =================================================
+					Missiom Part Start
+     ================================================== */
+	 #mission .mission_img {
+		margin-top: 16px;
+	}
+	 /* =================================================
+					Missiom Part End
+     ================================================== */
+
+
+	/* =================================================
+						CEO Part Start
+     ================================================== */
+	.orjon {
+		padding-top: 26px;
+	}
+
+	.orjon ul {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.orjon ul li {
+		margin-right: 18px;
+	}
+
+	/* =================================================
+						CEO Part End
+     ================================================== */
+
+	/* =================================================
+						ISO Certified Start
+     ================================================== */
+	.iso_text h3 {
+		font-size: 25px;
+		line-height: 40px;
+		padding-bottom: 10px;
+	}
+
+	.iso_text p {
+		font-size: 14px;
+		line-height: 21px;
+	}
+
+	/* =================================================
+						ISO Certified End
+     ================================================== */
+
+	/* =================================================
+				Trainning Department Start
+     ================================================== */
+	.training_department_main a {
+		width: 42%!important;
+	}
+
+	/* =================================================
+				Trainning Department End
+     ================================================== */
+	/*===================== About Us Page Responsive End ==========================*/
+
+	/*===================== Course Landing Page Responsive Start ==========================*/
+	.pg_banner_text {
+		text-align: center;
+	}
+
+	.pg_banner_text ul {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		justify-content: center;
+	}
+
+	.countdown_sm_device {
+		display: none;
+	}
+
+	.pg_banner_text .stars p {
+		padding-bottom: 17px;
+	}
+
+	.course_overviwe_text h2 {
+		text-align: center;
+	}
+
+	.pgc_curriculum h3 {
+		text-align: center;
+	}
+
+	.pgc_software h3 {
+		text-align: center;
+	}
+
+	.pgc_for_whom h3 {
+		text-align: center;
+	}
+
+	.pg_marketplace h2 {
+		text-align: center;
+	}
+
+
+
+	.pgs_facilitice h3 {
+		font-size: 36px;
+		line-height: 46px;
+	}
+
+	/* .pg_succsess_story .heading {
+		padding-top: 40px;
+	} */
+	/* =================================================
+	Student Feedback Part Start
+	================================================== */
+	.feedback_item {
+		margin: 3px 10px;
+	}
+
+	.student_feedback_item ul li .student_name h5 {
+		font-size: 14px;
+	}
+
+	/* =================================================
+	Student Feedback Part End
+	================================================== */
+
+	/* =================================================
+	Position Stiky Part Start
+	================================================== */
+	.join_offline_main {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.pg_wait .join_offline {
+		width: 48%;
+		display: inline-block;
+		margin-right: 9px;
+	}
+
+	/* =================================================
+	Position Stiky Part End
+	================================================== */
+	/*===================== Course Landing Page Responsive End ==========================*/
+
+
+	/*===================== Course Landing Page Responsive-2 Start ==========================*/
+	/* =================================================
+				Pg For Whom Start
+	================================================= */
+	#pro_gra_forwhom h2 {
+		font-size: 33px;
+		line-height: 45px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+
+	.pg_for_whom_video {
+		margin-bottom: 70px;
+	}
+
+	.pg_wait {
+		margin-top: 30px;
+		margin-bottom: 79px;
+	}
+
+	.pro_gra_for_whom_item {
+		margin-bottom: 40px;
+		gap: 34px;
+	}
+
+	.pro_gra_for_whom_item:last-child {
+		margin-bottom: 77px;
+	}
+
+	.pro_gra_for_whom_item .for_whom_content .for_whom_text h3 {
+		line-height: 32px;
+		padding-bottom: 10px;
+	}
+
+	.pg_wait>h3 {
+		text-align: center;
+	}
+
+	.pg_wait>p {
+		text-align: center;
+		max-width: 460px;
+		margin: 0 auto;
+	}
+
+	/* =================================================
+				Pg For Whom End
+	================================================= */
+	/*===================== Course Landing Page Responsive-2 End ==========================*/
+
+	/* ====================== Success Story Page Start ========================== */
+	.success_menu ul {
+		margin-top: 40px;
+		display: flex;
+		justify-content: space-between;
+	}
+	.success_menu ul li {
+		margin-right: 0;
+	}
+	.success_menu ul li .company_nav_tab {
+		font-size: 12px;
+	}
+	.ss_admission .section_heading p {
+		padding-bottom: 0;
+	}
+	/* ====================== Success Story Page End ========================== */
+
+
+
+	/* =================================================
+				Footer Part Start
+     ================================================== */
+	#footer .footer_left {
+		position: absolute;
+		left: 30px;
+		top: 30px;
+	}
+	.payments .payment_item {
+		margin: 0;
+	}
+	.payment_qr small {
+		font-size: 18px;
+	}
+
+	#footer .footer_right {
+		position: absolute;
+		right: 30px;
+		top: 30px;
+	}
+
+	/* =================================================
+				Footer Part Start
+     ================================================== */
+
+	/*========================================= blog details Page Start======================================== */
+	.tag_share {
+		margin-top: 33px;
+		flex-wrap: wrap;
+	}
+
+	.tag_share .tag {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.tag_share .share {
+		margin-top: 30px;
+	}
+	.tag_share .share a {
+		background: #ffffff;
+		margin-left: 15px;
+		text-align: center;
+		line-height: 36px;
+		box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.06);
+			border-radius: 50%;
+			-webkit-border-radius: 50%;
+			-moz-border-radius: 50%;
+			-ms-border-radius: 50%;
+			-o-border-radius: 50%;
+	}
+	.related_post {
+		padding-bottom: 76px;
+	}
+	/*========================================= blog details Page End======================================== */
+
+	/*========================================= Blog Page Start======================================== */
+	.blog_heading_search .page_heading h3 {
+		padding-top: 12px;
+		}
+		.small_blog .layer_text .text h3 {
+		font-size: 16px;
+		font-weight: 600;
+		line-height: 23px;
+		padding-top: 0;
+		padding-bottom: 0;
+		}
+
+
+		.blog_search .ronytalukder {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 12px;
+		}
+		.blog_search .ronytalukder .small_blog {
+		width: 49%;
+		}
+		.blog_search .ronytalukder .single_blog_top {
+		width: 49%;
+		}
+
+		.main_blog_grid .small_blog {
+		margin-bottom: 0;
+		}
+		#letest_poet .letest_post_slider .post_item .text h3 {
+		font-size: 18px;
+		line-height: 32px;
+		padding-top: 5px;
+		padding-bottom: 6px;
+		}
+
+		.all_blog_item {
+		border: 0.5px solid rgba(0, 0, 0, 0.1);
+		border-radius: 20px;
+		gap: 0 0;
+		margin-bottom: 22px;
+		overflow: hidden;
+		justify-content: space-between;
+		}
+		.all_blog_item .image {
+		flex-basis: auto;
+		width: 48%;
+		}
+		.all_blog_item .text {
+		flex-basis: auto;
+		width: 50%;
+		}
+		.all_blog_item .text h3 {
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 32px;
+		padding-bottom: 10px;
+		}
+		#all_blog .dots_victor {
+		display: none;
+		}
+		.pagination_btn {
+		padding-bottom: 50px;
+		}
+	/*========================================= Bolg Page End======================================== */
+
+	/*========================================= Contact Us Page Start======================================== */
+	.office_address_main .phone_number ul li a {
+		font-size: 14px;
+		}
+		#office_2 {
+		padding-bottom: 90px;
+		}
+		form.student_form .form-floating select,
+		form.student_form .form-floating textarea {
+		padding: 17px 4px;
+		}
+		.course_free_facilities_btn {
+		margin-top: 50px;
+		padding-bottom: 60px;
+		text-align: center;
+		}
+		.facilities_heading h2 {
+		padding-bottom: 25px;
+		margin-top: 25px;
+		}
+	/*========================================= Contact Us Page End======================================== */
+
+	/*========================================= Free Saminer Page Start======================================== */
+	#seminar {
+		padding-top: 0px;
+	}
+	/*========================================= Free Saminer Page End======================================== */
+
+	/*========================================= instructors-and-teacher Page Start======================================== */
+
+.instructors_item>.text h4 {
+	font-size: 35px;
+	}
+	.instructors_item>.text h4 span {
+	font-size: 15px;
+	}
+	.instructors_item>.image {
+	margin-left: 0;
+	margin-right: 30px;
+	}
+	.instructors_item>.text {
+	margin-left: 0;
+	}
+	.instructors_item {
+	justify-content: center;
+	}
+
+	.instructor_qualification{
+	position: relative;
+	}
+	.instructor_qualification .first_heading {
+	position: absolute;
+	right: 29px;
+	top: -252px;
+	}
+	.instructor_img {
+	margin-bottom: 12px;
+	}
+	.market_icon img {
+	height: 33px !important;
+	}
+	.instructor_qualification {
+	padding-bottom: 20px;
+	}
+	.instructor_profile_inner_item h4 {
+	padding-top: 20px;
+	}
+	.instructor_profile_inner_item .inner_icon img {
+	margin-right: 8px;
+	}
+	.course_single_item .course_text ul li {
+	margin-bottom: 15px;
+	}
+	/*========================================= instructors-and-teacher Page End======================================== */
+
+	/*========================================= Our Course Page Start======================================== */
+	.courses_menu ul li .course_menu_single_item h4 {
+		font-size: 16px;
+		}
+		.courses_menu ul li {
+		margin-bottom: 9px;
+		}
+	/*========================================= Our Course Page End======================================== */
+
+	/*========================================= Our Facilities Page Start======================================== */
+	.job_placement {
+		padding-top: 40px;
+		padding-bottom: 40px;
+		padding-left: 10px;
+		padding-right: 10px;
+		background: #FBFDF2;
+		border-radius: 35px;
+		margin-bottom: 30px;
+		}
+		.job_placement_contant ul li h3 {
+		font-size: 20px;
+		}
+		.job_placement_contant ul li {
+		font-size: 25px;
+		}
+		.jobplacement_partner {
+		background: #FFFFFF;
+		border-radius: 28px;
+		padding-top: 15px;
+		padding-right: 20px;
+		padding-left: 20px;
+		padding-bottom: 20px;
+		}
+		.jobplacement_partner ul li {
+		width: 28% !important;
+		margin-bottom: 8px;
+		}
+		.partner_all ul li{
+			width: 15.3%;
+		  }
+	/*========================================= Our Facilities Page End======================================== */
+
+
+	/*========================================= Jony Responsive Start======================================== */
+		/* ==============================================================
+					Professonal Graphic You Page start
+	===============================================================*/
+	.admission_rule {
+		text-align: center;
+	}
+	#desktop_50_pgc {
+		padding-top: 140px;
+	}
+
+	#desktop_50_pgc p {
+		padding-bottom: 20px;
+	}
+
+	#course_free_facilities .course_free_facilities_heading h3 {
+		text-align: center;
+	}
+
+	.course_fee_box {
+		margin-top: 80px;
+	}
+
+	.admission_rule ul {
+		justify-content: center;
+	}
+
+	.pagination_main {
+		margin-top: 103px;
+	}
+
+	/* ==============================================================
+					Professonal Graphic You Page end
+	===============================================================*/
+
+	/* ==============================================================
+					Page 32 You Page start
+	===============================================================*/
+	.course_free_facilities_item:hover .hover_play_video {
+		left: 115px;
+		padding: 19px 22px;
+		width: 87%;
+	}
+	.hover_play_video {
+		margin-left: 12px;
+		width: 100%;
+		top: 42px;
+	}
+
+	/* ==============================================================
+					Page 32 You Page start
+	===============================================================*/
+
+	/* ==============================================================
+					Page 50 You Page start
+	===============================================================*/
+	.course_type_item {
+		margin-bottom: 20px;
+	}
+
+	#course_type .course_type_heading h3 {
+		text-align: center;
+	}
+
+	#course_type {
+		margin-top: 13px;
+	}
+
+	.course_type_item .form-check .form-check-input {
+		width: 20px;
+		height: 20px;
+		margin-right: 15px;
+	}
+
+	.course_type_item .form-check .form-check-input:checked[type="radio"]::after {
+		width: 10px;
+		height: 10px;
+	}
+
+	.course_type_item {
+		padding: 20px 20px;
+	}
+
+	.course_type_item .text h3 {
+		font-size: 18px;
+	}
+	.copy .copy_social_link a {
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		margin-left: 9px;
+	}
+	/* ==============================================================
+					Page 50 You Page start
+	===============================================================*/
+	/*========================================= Jony Responsive End======================================== */
+
+/*========================================= final change start======================================== */
+	/*===about us page start==*/
+	.branch{
+		margin-top: 5px!important;
+	}
+	.branch_item {
+		padding: 40px;
+	}
+	/*===about us page end==*/
+	.facilities_heading p {
+		padding-bottom: 30px;
+		font-size: 18px!important;
+	}
+	/*====gallery page start===*/
+	.ss_pagination {
+		margin-bottom: 0;
+	}
+	/*====gallery page end===*/
+	.pg_wait .join_offline a {
+		line-height: 32px!important;
+	}
+
+	/*=======job placement stat=======*/
+
+	.job-title{
+		text-align: left;
+	}
+	.job-title h1{
+		padding-bottom: 10px;
+	}
+	.job-desp{
+		text-align: left;
+	}
+	.job_placement_contant_img {
+		margin-top: 50%!important;
+		transform:translateY(-50%)
+	}
+	/*=======job placement end=======*/
+	/*========================================= final change End======================================== */
+    .milestone_slider .card-body {
+        padding-left: 20px;
+        padding-right: 10px;
+      }
+      .milestone_slider .card-body .card-title{
+        font-size: 20px;
+      }
+
+      .counter_up_item {
+        margin-bottom: 15px;
+      }
+
+		   /*=======15 years celebration here=======*/
+			.clebration_content {
+				padding: 0;
+		  }
+		  #celebration_contact .contact-card {
+				margin-bottom: 20px;
+		  }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	.side_text {
+		display: none;
+	}
+	.partner_all ul li,.jp_partners .jobplacement_partner ul li{
+		width: 22%;
+	  }
+	/* =================================================
+			Section heading Part Start
+     ================================================== */
+	.section_heading h2 {
+		padding-top: 10px;
+	}
+
+	/* =================================================
+			Section heading Part End
+     ================================================== */
+
+	/* =================================================
+			Topbar Part Start
+     ================================================== */
+	#topbar {
+		display: none;
+	}
+
+	/* =================================================
+			Topbar Part End
+     ================================================== */
+
+	/* =================================================
+			Offcanvas Logo Part Start
+     ================================================== */
+	.logo img {
+		width: 120px;
+	}
+
+	/* =================================================
+			Offcanvas Logo Part End
+     ================================================== */
+
+
+	/* =================================================
+			Banner Part Start
+     ================================================== */
+	.banner_text {
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.banner_text h1 {
+		font-size: 40px;
+	}
+
+	.banner_text h1 span {
+		font-size: 40px;
+	}
+
+	.banner_text ul {
+		margin-bottom: 60px;
+	}
+
+	.banner_text ul li {
+		justify-content: center;
+	}
+
+	.banner_text h1 img {
+		left: 0%;
+		top: 15%;
+		width: 19%;
+		z-index: -1;
+	}
+
+	.banner_img .plus {
+		left: 90%;
+		top: -23px;
+	}
+
+	.banner_img .dot_3 {
+		position: absolute;
+		left: 20px;
+		bottom: 101%;
+		width: 45px;
+	}
+
+	#banner .green_shadow {
+		top: 37%;
+	}
+
+	/* =================================================
+			Banner Part End
+     ================================================== */
+
+	/* =================================================
+			Alamin Popular Courses Area Start
+	================================================= */
+	 #alamin {
+		margin-top: -50px;
+	}
+	#alamin .populer_courses {
+		background: #FAF9FD;
+		border-radius: 35px;
+		padding: 80px 20px;
+	}
+
+	.section_heading h2 {
+		font-size: 35px;
+		line-height: 50px;
+		padding: 0 30px;
+	}
+
+	.course_heading h3 {
+		font-size: 30px;
+	}
+
+	span.label {
+		display: inline-block;
+		font-size: 13px;
+		padding: 0 5px;
+	}
+
+	.course_single_item .course_text h3 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+
+	.course_single_item .course_text ul li {
+		font-size: 11px;
+		line-height: 25px;
+		margin-bottom: 20px;
+	}
+
+	.course_single_item .course_text p {
+		font-size: 16px;
+		line-height: 26px;
+	}
+
+	.counte_item {
+		margin: 0 10px;
+		padding: 20px;
+	}
+
+	.counte_item h4 {
+		font-size: 29px;
+		line-height: 32px;
+		padding-top: 18px;
+	}
+
+	.counte_item h3 {
+		font-size: 19px;
+		line-height: 26px;
+	}
+
+	/* =================================================
+			Alamin Popular Courses Area End
+	================================================= */
+
+	/* =================================================
+			Info Part Start
+     ================================================== */
+	 .story_text_slider {
+		position: relative;
+		margin-top: 40px;
+	}
+	/* =================================================
+			Info Part End
+     ================================================== */
+
+	/* =================================================
+			 Multi Slider Part Start
+     ================================================== */
+	.slick-list.draggable {
+		padding-left: 0 !important;
+	}
+
+	.student_story_item {
+		margin-bottom: 30px;
+	}
+
+	.all_course_btn a {
+		width: 250px;
+	}
+
+	/* =================================================
+			 Multi Slider Part End
+     ================================================== */
+
+	/* =================================================
+			Free Seminar Part Start
+     ================================================== */
+	 #seminar {
+		padding-top: 65px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+
+	.seminar_content h3 {
+		text-align: center;
+	}
+
+	.seminar_content h2 {
+		font-size: 35px;
+		line-height: 50px;
+	}
+
+	.seminar_content ul li {
+		margin-bottom: 19px;
+	}
+
+	.seminar_content .seminar_btn {
+		padding-bottom: 38px;
+	}
+
+	.seminar_content .seminar_btn a {
+		padding: 10px 50px;
+	}
+
+	.practical_project_img .prectical_dots {
+		right: 78%;
+	}
+
+	/* =================================================
+			Free Seminar Part End
+     ================================================== */
+
+	/* =================================================
+			Practical Project Part Start
+     ================================================== */
+	#practical_project {
+		padding-top: 30px;
+		padding-bottom: 0;
+	}
+
+	.practical_project {
+		background: #fff;
+		text-align: center;
+	}
+
+	.practical_project_text {
+		padding-top: 45px;
+	}
+
+	.practical_project_text h2 {
+		font-size: 25px;
+	}
+
+	/* =================================================
+			Practical Project Part End
+     ================================================== */
+
+	/* =================================================
+			12 years of glory Part Start
+     ================================================== */
+	#glory {
+		text-align: center;
+	}
+
+	.glory_text h2 {
+		padding-top: 17px;
+		font-size: 35px;
+		line-height: 50px;
+	}
+
+	/* =================================================
+			12 years of glory Part End
+     ================================================== */
+
+	/* =================================================
+				CounterUp Part Start
+     ================================================== */
+	.counter_up_item {
+		padding: 25px 15px;
+		margin-bottom: 20px;
+	}
+
+	.counter_up_item h5 {
+		font-size: 32px;
+        font-family: 'Roboto', sans-serif !important;
+	}
+
+	.counter_up_item p {
+		font-size: 16px;
+	}
+
+	/* =================================================
+				Company Part End
+     ================================================== */
+
+	/* =================================================
+				Company Part Start
+     ================================================== */
+
+
+	.company_heading {
+		padding-bottom: 50px;
+	}
+
+	.company_heading h2 {
+		font-size: 35px;
+		line-height: 50px;
+		max-width: 470px;
+	}
+
+	.company_menu ul li .company_nav_tab {
+		font-size: 15px;
+		line-height: 26px;
+		padding: 10px 7px;
+	}
+
+	.company_item ul li span {
+		width: 33.33%;
+	}
+
+	/* =================================================
+				Company Part End
+     ================================================== */
+
+	/* =================================================
+				Blog Part Start
+     ================================================== */
+	#blog {
+		padding-top: 18px;
+		padding-bottom: 65px;
+	}
+
+	.blog_item {
+		margin: 0 30px;
+	}
+
+	.blog_heading h2 {
+		font-size: 35px;
+		line-height: 50px;
+		padding-bottom: 30px;
+	}
+
+	.blogPrevArrow.slick-arrow {
+		position: absolute;
+		top: 50%;
+		left: 7px;
+		-webkit-transform: translateY(-50%);
+		transform: translateY(-50%);
+		width: 40px;
+		height: 40px;
+		background: #ffffff;
+		text-align: center;
+		line-height: 40px;
+		border-radius: 50%;
+		color: rgba(0, 0, 0, 0.3);
+		font-size: 18px;
+		font-weight: 600;
+		z-index: 10;
+		-webkit-transition: all linear .3s;
+		transition: all linear .3s;
+		cursor: pointer;
+	}
+
+	.blogNextArrow.slick-arrow {
+		position: absolute;
+		top: 50%;
+		right: 7px;
+		-webkit-transform: translateY(-50%);
+		transform: translateY(-50%);
+		width: 40px;
+		height: 40px;
+		background: #ffffff;
+		text-align: center;
+		line-height: 40px;
+		border-radius: 50%;
+		color: rgba(0, 0, 0, 0.3);
+		font-size: 18px;
+		font-weight: 600;
+		z-index: 10;
+		-webkit-transition: all linear .3s;
+		transition: all linear .3s;
+		cursor: pointer;
+	}
+
+	.blogPrevArrow.slick-arrow:hover,
+	.blogNextArrow.slick-arrow:hover {
+		color: #FB312E;
+	}
+
+	/* =================================================
+				Company Part End
+     ================================================== */
+	/* ====================== Desing And Multimedia Page Responsive Start ========================== */
+	.facilities_heading p.desing_multi_peragraph {
+		padding-bottom: 45px;
+	}
+
+	.admission_item.course_single_item {
+		margin-bottom: 25px;
+		margin-top: 0;
+	}
+
+	/* ====================== Desing And Multimedia Page Responsive End ========================== */
+
+	/* ====================== About-Us Page Responsive Start ========================== */
+	/* =================================================
+				facilities_heading Part Start
+	================================================= */
+	.facilities_heading {
+		text-align: center;
+	}
+
+	.facilities_heading h2 {
+		font-size: 32px;
+		line-height: 45px;
+		padding-bottom: 16px;
+		padding-top: 45px;
+	}
+
+	.facilities_heading p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-bottom: 0;
+	}
+
+	/* =================================================
+				facilities_heading Part End
+	================================================= */
+
+	/* =================================================
+				about_top Part Start
+	================================================= */
+	#about_top .about_top_img {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: space-evenly;
+		-ms-flex-pack: space-evenly;
+		justify-content: space-evenly;
+		align-items: center;
+		padding-top: 35px;
+		padding-bottom: 32px;
+	}
+
+	#about_top .about_top_img .single_img {
+		margin: 0;
+	}
+
+	#virtual {
+		padding-bottom: 0;
+	}
+
+	#glory {
+		padding-top:0px;
+		padding-bottom: 46px;
+	}
+
+	.glory_text h2 {
+		font-size: 22px;
+		line-height: 33px;
+		padding-top: 12px;
+	}
+
+	.glory_text p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-top: 32px;
+		padding-bottom: 30px;
+	}
+
+	#ceo {
+		margin-top: 60px;
+	}
+
+	.ceo_text p {
+		line-height: 25px;
+	}
+
+	.orjon {
+		padding-top: 42px;
+	}
+
+	.orjon ul {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.orjon ul li {
+		margin-right: 0;
+	}
+
+	#ceo>.container>.row:nth-child(2n) {
+		padding-top: 79px;
+	}
+
+	#iso {
+		padding-top: 80px;
+		padding-bottom: 80px;
+		background: #F8F8F8;
+		margin-top: 80px;
+	}
+
+	.iso_text {
+		text-align: center;
+	}
+
+	.iso_text h3 {
+		font-size: 22px;
+		line-height: 35px;
+		padding-bottom: 19px;
+		padding-top: 46px;
+	}
+
+	.iso_text p {
+		font-size: 14px;
+		line-height: 25px;
+	}
+
+	/* =================================================
+				about_top Part End
+	================================================= */
+
+	/* =================================================
+				Mission Part Start
+	================================================= */
+	#mission {
+		margin-top: 80px;
+	}
+
+	#mission .mission_menu {
+		border-radius: 0;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	#mission .mission_menu ul {
+		flex-direction: row;
+	}
+
+	#mission .mission_menu ul li {
+		font-size: 14px;
+		width: 20%;
+		display: flex;
+	}
+
+	#mission .mission_menu ul li button {
+		text-align: center;
+		line-height: 34px;
+		flex-direction: column;
+		padding-left: 0;
+		padding-right: 0;
+		border-top: 3px solid transparent;
+		border-left: 0 solid transparent;
+	}
+
+	#mission .mission_menu ul li button svg {
+		margin-right: 0;
+	}
+
+	#mission .mission_menu ul li button:hover {
+		border-left: 0px solid transparent;
+	}
+
+	#mission .mission_menu ul li button.active {
+		border-top: 3px solid #CF0000 !important;
+		border-left: 0px solid transparent !important;
+	}
+
+	#mission .mission_menu ul li button.active svg path {
+		fill: #CF0000 !important;
+	}
+
+	#mission .mission_menu ul li button:hover svg path {
+		fill: #CF0000 !important;
+	}
+
+	#mission .mission_menu ul li button svg path {
+		fill: rgba(0, 0, 0, 0.27) !important;
+	}
+
+	.nav-item:last-child button {
+		padding-top: 12px;
+	}
+
+	.mission_menu .nav-tabs {
+		border-bottom: 0px solid #dee2e6;
+	}
+
+	#mission .mission_body h3 {
+		padding-top: 31px;
+	}
+
+	#mission .mission_body p {
+		line-height: 25px;
+		padding-bottom: 30px;
+	}
+
+	/* =================================================
+				Mission Part End
+	================================================= */
+
+	/* =================================================
+				Countaer Up Part Start
+	================================================= */
+	#counter_up.about_counter_up h2 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+
+	#counter_up.about_counter_up .counter_up_item {
+		padding: 4px 16px;
+		margin-bottom: 20px;
+		min-height: 117px;
+	}
+
+	.counter_up_item h5 {
+		font-size: 20px;
+		line-height: 40px;
+        font-family: 'Roboto', sans-serif !important;
+	}
+
+	.counter_up_item p {
+		font-size: 12px;
+		color: #605F62;
+	}
+
+	/* =================================================
+				Countaer Up Part End
+	================================================= */
+
+	/* =================================================
+				office_and_traning Part Start
+	================================================= */
+	#office_and_traning h2 {
+		font-size: 22px;
+		line-height: 33px;
+		margin-bottom: 23px;
+	}
+
+	.trainingPrevArrow.slick-arrow {
+		left: -4px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 14px;
+	}
+
+	.trainingNextArrow.slick-arrow {
+		right: -4px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 14px;
+	}
+
+	/* =================================================
+				office_and_traning Part End
+	================================================= */
+
+	/* =================================================
+				About Branch Part Start
+	================================================= */
+	#branch h2 {
+		font-size: 22px;
+		line-height: 33px;
+		margin-bottom: 28px;
+	}
+
+	.branch_item {
+		padding: 39px 33px;
+		margin-bottom: 15px;
+	}
+
+	/* =================================================
+				About Branch Part End
+	================================================= */
+
+	/* =================================================
+				training_department Part Start
+	================================================= */
+	#training_department {
+		margin-top: 87px;
+		margin-bottom: 79px;
+	}
+
+	#training_department h2 {
+		font-size: 22px;
+		line-height: 33px;
+		margin-bottom: 22px;
+	}
+
+	.training_department_main a {
+		width: 42%;
+		box-shadow: 5px 5px 60px rgba(0, 0, 0, 0.06);
+		border: none;
+	}
+	.training_department_main a .training_department_item {
+		padding: 12px;
+	}
+
+	.training_department_main a .training_department_item .couse_text h3 {
+		padding-top: 16px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	/* =================================================
+				training_department Part End
+	================================================= */
+
+	/* ====================== About-Us Page Responsive End ========================== */
+
+
+	/*===================== Course Landing Page Responsive Start ==========================*/
+	#profe_graphic_banner {
+		background: url(../images/course-landing/sm-banner-bg.png) no-repeat top;
+		background-size: contain;
+		overflow: hidden;
+	}
+
+	.pink_shape img {
+		width: 118%;
+		transform: scale(1.5) rotate(47deg);
+	}
+
+	#profe_graphic_banner .yellow_shape {
+		z-index: -1;
+		transform: scale(2);
+	}
+
+	.pg_banner_text {
+		text-align: center;
+	}
+
+	.pg_banner_text h4 {
+		font-size: 20px;
+		line-height: 32px;
+	}
+
+	.pg_banner_text h1 {
+		font-size: 40px;
+		line-height: 37px;
+		padding-top: 11px;
+	}
+
+	.pg_banner_text ul {
+		display: flex;
+		justify-content: center;
+	}
+
+	.pg_banner_text>h1 span {
+		font-size: 31px;
+		line-height: 37px;
+		background: #ff1e1e;
+		background: -webkit-linear-gradient(left, #e4655e, #ff1e1e);
+		background-clip: border-box;
+		background-clip: text;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		line-height: 72px;
+	}
+
+	.pg_banner_text>p {
+		padding-top: 24px;
+		padding-bottom: 24px;
+		font-size: 15px;
+		line-height: 25px;
+	}
+
+	.pg_banner_text .pg_banner_btn a {
+		font-size: 16px;
+		line-height: 24px;
+		padding: 12px 30px;
+		margin-right: 10px;
+	}
+
+	.pg_banner_text .stars p {
+		display: none;
+	}
+
+	.pg_banner_img {
+		margin-top: 36px;
+	}
+
+	.countdown_sm_device p {
+		color: #CF0000;
+		padding-top: 14px;
+		font-family: Ruposhi Bangla Unicode;
+		font-size: 15px;
+		font-weight: 400;
+		line-height: 29px;
+	}
+
+	#profe_graphic_banner .countdown_sm_device p span {
+		display: inline-block;
+		background: #FF7E31;
+		width: 60px;
+		text-align: center;
+		border-radius: 5px;
+		padding: 4px 5px 3px;
+		color: #fff !important;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 21px;
+		margin: 0 2px;
+	}
+
+	/* =================================================
+				Course overviwe Start
+	================================================= */
+	.course_overviwe_text {
+		background: linear-gradient(127.39deg, #FFFFFF 2.83%, #ffffff 81.54%);
+		border: 9px solid #FFFFFF;
+		-webkit-box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.06);
+		box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.06);
+		border-radius: 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	.course_overviwe_text h2 {
+		font-size: 35px;
+		line-height: 40px;
+	}
+
+	.course_overviwe_text p {
+		text-align: center;
+		font-size: 15px;
+		line-height: 23px;
+	}
+
+	.course_overviwe_text p span {
+		padding-top: 24px;
+		padding-bottom: 13px;
+	}
+
+	.course_overviwe_text ul {
+		margin-top: 25px;
+	}
+
+	.sm_device-show.d-block.d-sm-none {
+		margin-top: 70px;
+	}
+
+	.pg_succsess_story .heading h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+
+	.pg_wait>h3 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+
+	.pgc_curriculum {
+		margin-top: 77px;
+	}
+
+	.pgc_software {
+		padding: 66px 15px;
+		border-radius: 0;
+		margin-top: 80px;
+		text-align: center;
+	}
+
+	.pgc_software h3 {
+		font-size: 22px;
+		line-height: 33px;
+		padding-bottom: 33px;
+	}
+
+	.pgc_item ul li .pgcs_icon {
+		min-width: 45px;
+		height: 45px;
+		margin-right: 15px;
+		flex-basis: 45px;
+	}
+
+	.pgc_item ul li .pgcs_text p {
+		font-size: 20px;
+		line-height: 30px;
+	}
+
+	.pgc_for_whom {
+		/* padding: 78px 20px; */
+		border-radius: 0;
+	}
+
+	.pgcf_whom_item {
+		background: #fff;
+	}
+
+	.pgcf_whom_item .pgcf_whom_item_icon {
+		width: 100px;
+		height: 100px;
+		background: linear-gradient(229.69deg, #FDF3FD 3.63%, rgba(253, 243, 253, 0.29) 98.73%);
+		border-radius: 22px;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.pgcf_whom_item .pgcf_whom_item_icon img {
+		width: 65%;
+	}
+
+	.pgcf_whom_item .pgcf_whom_item_text p {
+		font-size: 20px;
+		line-height: 32px;
+		padding-top: 15px;
+	}
+
+	.pg_marketplace {
+		padding: 80px 20px;
+	}
+
+	.pg_marketplace .marketplace_item {
+		border-radius: 0;
+	}
+
+	.pg_marketplace h2 {
+		padding-bottom: 20px;
+		text-align: center;
+	}
+
+	.pg_marketplace .marketplace_item {
+		padding: 18px 20px;
+		border-radius: 30px;
+		margin-bottom: 27px;
+		background: #fff;
+		min-height: 226px;
+	}
+
+	.pg_marketplace .marketplace_item .text p {
+		font-size: 14px;
+		line-height: 21px;
+	}
+
+	.pg_job {
+		padding: 56px 20px;
+	}
+
+	.pg_job h3 {
+		padding-bottom: 21px;
+	}
+
+	.job_item ul li {
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+
+	.job_item ul li svg {
+		margin-right: 10px;
+	}
+
+	.pgs_facilitice>h3 {
+		font-size: 29px;
+		line-height: 38px;
+		text-align: center;
+	}
+
+	.pg_more_facilities_item h3 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+
+	.pgs_project h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 27px;
+		text-align: center;
+	}
+
+	.pg_student_feedback h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 27px;
+		text-align: center;
+	}
+
+	/* =================================================
+				Course overviwe End
+	================================================= */
+
+	/*===================== Course Landing Page Responsive End ==========================*/
+
+
+	/*===================== Course Landing Page Responsive-2 Start ==========================*/
+	/* =================================================
+				Pg For Whom Start
+	================================================= */
+	#pro_gra_forwhom h2 {
+		font-size: 35px;
+		line-height: 50px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+
+	.pg_for_whom_video {
+		margin-bottom: 40px;
+	}
+
+	.pg_wait {
+		margin-top: 30px;
+		margin-bottom: 79px;
+	}
+
+	.pro_gra_for_whom_item {
+		margin-bottom: 36px;
+		gap: 34px;
+	}
+
+	.pro_gra_for_whom_item:last-child {
+		margin-bottom: 77px;
+	}
+
+	/* =================================================
+				Pg For Whom End
+	================================================= */
+	/*===================== Course Landing Page Responsive-2 End ==========================*/
+
+
+
+
+
+	/* =================================================
+				Footer Part Start
+	================================================= */
+	/* Footer Area Start===== */
+	#footer .footer_left {
+		position: absolute;
+		left: 14px;
+		top: 40px;
+		width: 13%;
+	}
+
+	#footer .footer_right {
+		position: absolute;
+		right: 14px;
+		top: 40px;
+		width: 13%;
+	}
+
+	.footer_heading p {
+		margin: 0px !important;
+	}
+
+	.col-md-4.copy_text_sm_last {
+		order: 3;
+		padding-top: 20px;
+	}
+	/* =================================================
+				Footer Part End
+	================================================= */
+
+
+	/*========================================= blog details Page Start======================================== */
+	.tag_share {
+		margin-top: 33px;
+		flex-wrap: wrap;
+		}
+
+		.tag_share .tag {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		}
+		.tag_share .share a {
+		background: #ffffff;
+		margin-left: 15px;
+		text-align: center;
+		line-height: 36px;
+		box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.06);
+		border-radius: 50%;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		-ms-border-radius: 50%;
+		-o-border-radius: 50%;
+		}
+
+		.tag_share .share{
+		margin-top: 30px;
+		}
+		.author {
+		margin-top: 30px;
+		}
+		.seminar_discount {
+		margin-top: 44px;
+		}
+	/*========================================= blog details Page End======================================== */
+
+	/*=========================================  Blog Page Start======================================== */
+	.blog_heading_search .page_heading h3 {
+		padding-top: 17px;
+		}
+		#letest_poet .letest_post_slider .post_item .text h3 {
+			color: #1F1E1E;
+			font-family: Hind Siliguri;
+			font-size: 18px;
+			font-weight: 600;
+			line-height: 32px;
+			padding-top: 4px;
+			padding-bottom: 4px;
+		}
+			.all_blog_item .text h3 {
+				font-size: 17px;
+				font-weight: 600;
+				line-height: 33px;
+				padding-top: 7px;
+				padding-bottom: 7px;
+			}
+			.all_blog_item .image {
+				-ms-flex-preferred-size: 328px;
+				flex-basis: 100%;
+			}
+			.all_blog_item .text {
+				flex-basis: 100%;
+				padding: 15px;
+			}
+			#all_blog .dots_victor {
+				display: none;
+			}
+			.pagination_btn {
+				padding-bottom: 50px;
+			}
+	/*=========================================  Blog Page End======================================== */
+
+	/*=========================================  Contact Us Page Start======================================== */
+	#instructors_teachers {
+		margin-top: 130px;
+	}
+	.facilities_heading h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 16px;
+		text-align: center;
+		padding-top: 45px;
+		}
+
+		.facilities_heading p {
+		font-size: 14px;
+		text-align: center;
+		}
+
+		#office_1 {
+		padding-top: 0;
+		}
+
+		.office_address_main .address_text h3 {
+		padding-bottom: 7px;
+		padding-top: 0;
+		}
+
+		.office_address_main .phone_number h3 {
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 26px;
+		}
+
+		#question h3 {
+		color: #CF0000;
+		text-align: center;
+		font-weight: 600;
+		font-size: 21px;
+		line-height: 30px;
+		padding-bottom: 45px;
+		}
+
+		#office_2 {
+		padding-bottom: 90px;
+		}
+
+		form.student_form .form-floating select,
+		form.student_form .form-floating textarea {
+		padding: 17px 6px;
+		border-radius: 10px;
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+		-ms-border-radius: 10px;
+		-o-border-radius: 10px;
+		}
+
+		#question .r_textarea {
+		height: 151px;
+		}
+
+		.course_free_facilities_btn {
+		margin-top: 40px;
+		padding-bottom: 82px;
+		text-align: center;
+		}
+		.office_address_main .address_text h3 {
+		margin-top: 35px;
+		}
+	/*=========================================  Contact Us Page End======================================== */
+
+	/*=========================================  Free Seminer Page Start======================================== */
+	.facilities_heading p {
+		margin-bottom: 20px;
+		}
+	/*=========================================  Free Seminer Page End======================================== */
+
+	/*=========================================  Instructor and Teacher Page Start======================================== */
+	.instructors_item {
+		margin-bottom: 20px;
+		justify-content: center;
+	}
+	.instructors_item>.image {
+		margin-left: 0;
+	}
+
+	.facilities_heading p {
+		margin-bottom: 0;
+	}
+
+	.instructor_img {
+		text-align: center;
+	}
+	.instructor_profile_heading h1 {
+		padding-bottom: 20px;
+		text-align: center;
+		margin-top: 30px;
+	}
+	.experiance {
+		padding-bottom: 0;
+	}
+	.instructor_profile_heading p {
+	text-align: center;
+	}
+	/*=========================================  Instructor and Teacher Page End======================================== */
+
+	/*========================================= Our Course Page Start======================================== */
+	.courses_menu ul li {
+		width: 48%;
+		height: 157px;
+		margin-bottom: 11px;
+	}
+
+	.courses_menu ul li .course_menu_single_item h4 {
+		color: #1F1E1E;
+		font-family: Hind Siliguri;
+		font-size: 16px;
+		padding-top: 16px;
+	}
+	/*========================================= Our Course Page End======================================== */
+	/*========================================= Job placement Page Start======================================== */
+
+	.job_placement .jobplacement_partner ul li {
+		margin-left: 15px;
+		margin-right: 15px;
+		width: 24.4%;
+	}
+	/*========================================= Job placement Page End======================================== */
+	/*========================================= Our facilities Page Start======================================== */
+	.job_placement_contant_img {
+		margin-bottom: 45px;
+		}
+	/*========================================= Our facilities Page End======================================== */
+
+
+	/*========================================= Jony Responsive Start======================================== */
+	/* ==============================================================
+					Professonal Graphic You Page start
+	===============================================================*/
+	.admission_rule {
+		text-align: center;
+	}
+	#desktop_50_pgc {
+		padding-top: 140px;
+	}
+
+	#desktop_50_pgc p {
+		padding-bottom: 20px;
+	}
+
+	#course_free_facilities .course_free_facilities_heading h3 {
+		text-align: center;
+	}
+
+	.course_fee_box {
+		margin-top: 80px;
+	}
+
+	.admission_rule ul {
+		justify-content: center;
+	}
+
+	.pagination_main {
+		margin-top: 103px;
+	}
+
+	/* ==============================================================
+					Professonal Graphic You Page end
+	===============================================================*/
+
+	/* ==============================================================
+					Page 32 You Page start
+	===============================================================*/
+	.course_free_facilities_item:hover .hover_play_video {
+		left: 0px;
+	}
+
+	.hover_play_video {
+		margin-left: 12px;
+		width: 96%;
+		top: 42px;
+	}
+	.course_free_facilities_item_32:hover p {
+		padding-top: 70%;
+		transition: all linear .2s;
+	}
+
+	/* ==============================================================
+					Page 32 You Page start
+	===============================================================*/
+
+	/* ==============================================================
+					Page 33 You Page start
+	===============================================================*/
+	.extra_facilities_item:hover .hover_play_video {
+		left: 30px;
+		top: 60px;
+	}
+
+
+	/* ==============================================================
+					Page 33 You Page start
+	===============================================================*/
+
+	/* ==============================================================
+					Page 50 You Page start
+	===============================================================*/
+	.course_type_item {
+		margin-bottom: 20px;
+	}
+
+	#course_type .course_type_heading h3 {
+		text-align: center;
+	}
+
+	#course_type {
+		margin-top: 13px;
+	}
+
+	/* ==============================================================
+					Page 50 You Page start
+	===============================================================*/
+	/*========================================= Jony Responsive End======================================== */
+
+	/*========================================= final change start======================================== */
+	/*===about us page start==*/
+
+	.glory_text h2 {
+		font-size: 32px;
+	}
+	.glory_text p {
+		font-size: 18px;
+	}
+	.facilities_heading p {
+		font-size: 18px!important;
+	}
+	.iso_text h3 {
+		font-size: 32px;
+		line-height: 43px;
+	}
+	.iso_text p{
+		font-size: 18px!important;
+		text-align: center;
+	}
+	/*===about us page end==*/
+	/*===success story page start==*/
+	.facilities_heading h1 {
+		padding-bottom: 29px;
+		padding-top: 10px;
+	}
+	.facilities_heading p {
+		padding-bottom: 30px;
+		font-size: 18px!important;
+	}
+	#courseslide {
+		padding-top: 60px;
+	}
+	.section_heading h2 {
+		padding: 30px 30px 0;
+	}
+	/*===success story page end==*/
+	/*==Gallery page start==*/
+	.gallery-padding-area {
+		padding-bottom: 50px;
+	}
+	/*==Gallery page end==*/
+		/*==job placement course page start==*/
+		.job_placement_contant_img {
+			margin-top: 32px;
+		}
+
+		/*==job placement course page end==*/
+	/*==student feedback page start==*/
+	.review-content{
+		margin-top: 20px;
+	}
+	/*==student feedback page end==*/
+
+	/*========================================= final change End======================================== */
+    .course_category_slider {
+        margin-bottom: 20px !important;
+    }
+    .milestone_slider .card-body {
+		padding-left: 20px;
+		padding-right:10px;
+	}
+    .pg_wait_sticky {
+        position: relative;
+    }
+    .pgcf_whom_item .pgcf_whom_item_text p{
+        font-size: 14px;
+    }
+    .pg_banner_text .course_desc_article p{
+        letter-spacing: -0.5px;
+    }
+
+}
+@media (max-width: 575.98px) {
+
+	/* =================================================
+				Topbar Part Start
+	================================================= */
+	h1,h2{
+        font-size: 25px !important;
+    }
+    .course_category_slider {
+        margin-bottom: 20px;
+    }
+    .cit_milestone{
+        margin-top: 20px;
+    }
+    #topbar {
+		display: none;
+	}
+
+	.side_text {
+		display: none;
+	}
+
+	/* =================================================
+				Topbar Part End
+	================================================= */
+
+	/* =================================================
+				Navbar Part Start
+	================================================= */
+	.navbar-brand>img {
+		width: 120px;
+	}
+
+	.logo img {
+		width: 120px;
+	}
+
+	#navbarSupportedContent {
+		background: aliceblue;
+		text-align: center;
+	}
+
+	.main_menu li.nav-item {
+		margin-right: 0;
+	}
+
+	/* =================================================
+				Navbar Part End
+	================================================= */
+
+	/* =================================================
+				Banner Part Start
+	================================================= */
+	#banner {
+		padding-top: 120px;
+	}
+
+	.banner_text {
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.banner_text h1 {
+		font-size: 25px !important;
+		padding-top: 25px;
+	}
+
+	.banner_text h1 span {
+		font-size: 25px !important;
+	}
+
+	.banner_text>p {
+		font-size: 16px;
+		padding-top: 8px;
+		padding-bottom: 46px;
+        text-align: center;
+	}
+
+	.banner_text h1 img {
+		left: 0%;
+		top: 15%;
+		width: 19%;
+		z-index: -1;
+	}
+
+	.banner_text ul li {
+		justify-content: center;
+	}
+
+	.banner_text ul {
+		margin-top: 30px;
+		margin-bottom: 46px;
+	}
+
+	.banner_text a {
+		/* padding: 13px 9px; */
+		margin-right: 0;
+	}
+
+	.banner_text a:last-child {
+		margin-right: 0;
+	}
+
+	.banner_text a.browse_btn,
+	.banner_text a.join_btn {
+		display: none;
+	}
+
+	.banner_text ul li p {
+		text-align: left;
+	}
+
+	.one {
+		width: 100% !important;
+	}
+
+	.main_slider_courses .course_slider_top .course_slider_item {
+		background: #ffffff;
+		width: 161px !important;
+		height: 157px;
+		margin: 20px 0;
+		margin-right: 10px;
+	}
+
+	.main_slider_courses .course_slider_top .course_slider_item .couse_text h3 {
+		font-size: 16px;
+		line-height: 23px;
+		padding-top: 14px;
+	}
+
+	.banner_img .banner_img_overly .overly_text {
+		bottom: 0;
+	}
+
+	.banner_img .banner_img_overly .overly_text h4 {
+		font-size: 24px;
+	}
+
+	.banner_img .plus {
+		left: 90%;
+		top: -23px;
+	}
+
+	.banner_img .dot_3 {
+		position: absolute;
+		left: 20px;
+		bottom: 102%;
+		width: 36px;
+	}
+
+	#banner .green_shadow {
+		top: 37%;
+	}
+
+	/* =================================================
+				Banner Part End
+	================================================= */
+
+
+	/* =================================================
+			Course Department Area Start
+	================================================= */
+	.course_slider_top .course_slider_item {
+		margin: 35px 8px;
+	}
+	.course_slider_top .course_slider_item a .couse_text h3 {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.slick-slider .prevarrow {
+		left: 0px;
+		width: 40px;
+		height: 40px;
+		line-height: 36px;
+		color: rgba(0, 0, 0, 0.3);
+		font-size: 18px;
+	}
+
+	.slick-slider .nextarrow {
+		right: 0px;
+		width: 40px;
+		height: 40px;
+		line-height: 36px;
+		color: rgba(0, 0, 0, 0.3);
+		font-size: 18px;
+	}
+
+	.slick-slider .prevarrow:hover,
+	.slick-slider .nextarrow:hover {
+		color: #fff;
+		background-color: #ff1e1e;
+	}
+
+	/* =================================================
+				Course Department Area End
+	================================================= */
+
+	/* =================================================
+			Alamin Popular Courses Area Start
+	================================================= */
+	#alamin {
+		margin-top: -50px;
+		padding-bottom: 0;
+	}
+	.section_heading h2 {
+		font-size: 32px;
+		line-height: 38px;
+	}
+
+	.section_heading p {
+		font-size: 14px;
+	}
+
+	.slick-list.draggable {
+		padding-left: 0 !important;
+	}
+
+	.counte_item_xsm {
+		margin-bottom: 23px;
+	}
+
+    .course_single_item {
+        margin: 0px 3px !important;
+    }
+	.course_single_item .course_text h3 {
+		font-size: 16px;
+	}
+
+	.course_single_item .course_text p {
+		font-size: 16px;
+	}
+
+	.course_single_item .course_text ul li {
+		margin-bottom: 10px;
+	}
+
+	.course_single_item .course_text ul li span {
+		margin-bottom: 10px;
+	}
+
+	.counte_item h4 {
+		font-size: 35px;
+		padding-top: 7px;
+	}
+
+	.all_course_btn a {
+		width: 100%;
+	}
+	.course_single_item .course_text a {
+		font-size: 16px;
+        margin-top: 10px;
+	}
+    .course_text >div{
+        flex-direction: column;
+    }
+	.course_mix_btn button {
+		font-size: 12px;
+		text-align: center;
+	}
+	.course_mix_btn button span {
+		padding-top: 6px;
+		padding-bottom: 6px;
+		border-bottom: 3px solid transparent;
+        margin-left: 20px;
+	}
+
+	/* =================================================
+			Alamin Popular Courses Area End
+	================================================= */
+
+	/* =================================================
+				Info Part Start
+	================================================= */
+	#info {
+		/* margin-top: 80px; */
+        padding-top: 0;
+	}
+
+	.counte_item {
+		margin: 23px 0px;
+		padding: 25px;
+	}
+	.counte_item:last-child {
+		padding-bottom: 0;
+	}
+
+	.counte_item h3 {
+		font-size: 19px;
+		line-height: 28px;
+	}
+
+	/* =================================================
+				Top Slider Part End
+	================================================= */
+
+	/* =================================================
+				Student Success Part Start
+	================================================= */
+	#student_success {
+		padding-bottom: 4px;
+	}
+    #student_success h2{
+        font-size: 25px;
+    }
+	.success_item{
+		margin-bottom: 0;
+	}
+
+	.student_story_item {
+		margin-bottom: 28px;
+	}
+
+	/* =================================================
+				Student Success Part End
+	================================================= */
+
+	/* =================================================
+				More Facilities Part Start
+	================================================= */
+	#more_facilities {
+		padding-top: 3px;
+	}
+
+	.more_facilities_btn a {
+		width: 100%;
+		padding: 18px 0;
+		font-size: 18px;
+		margin-top: 14px;
+	}
+
+	#student_feedback .section_heading h2 {
+		padding-top: 40px;
+
+	}
+
+	.student_feedback_item p {
+		font-size: 14px;
+	}
+
+	.recommends {
+		padding-top: 80px;
+		padding-bottom: 50px;
+	}
+
+	.excellent h4 {
+		max-width: 270px;
+		margin: 0 auto;
+	}
+
+	.excellent h4 span.review {
+		margin: 0 0px;
+	}
+
+	.excellent {
+		margin-top: 22px;
+		margin-bottom: 63px;
+	}
+	.slick-slider .prevarrow {
+		left: 0!important;
+	}
+	.slick-slider .nextarrow {
+		right: 0;
+	}
+
+	/* =================================================
+				More Facilities Part End
+	================================================= */
+
+	/* =================================================
+				virtual Part Start
+	================================================= */
+	#virtual .virtual .virtual_text {
+		border-radius: 0 16px 16px 0;
+		-webkit-border-radius: 0 30px 30px 0;
+		-moz-border-radius: 0 16px 16px 0;
+		-ms-border-radius: 0 16px 16px 0;
+		-o-border-radius: 0 16px 16px 0;
+		padding: 9px 13px;
+	}
+
+	#virtual .virtual .virtual_text h6 {
+		font-size: 16px;
+	}
+
+	#virtual .virtual .virtual_text p {
+		font-size: 10px;
+		line-height: 11px;
+	}
+
+	#virtual .virtual .virtual_eye {
+		width: 34px;
+		height: 34px;
+		border-radius: 50%;
+	}
+
+	#virtual .virtual .virtual_eye a {
+		padding: 3px;
+	}
+
+	/* =================================================
+				virtual Part End
+	================================================= */
+
+	/* =================================================
+			Admission to all courses Part Start
+	================================================= */
+	.course_heading h3 {
+		font-size: 22px;
+		padding-bottom: 11px;
+	}
+
+	.seminar_content h2 {
+		font-size: 32px;
+		text-align: center;
+	}
+
+	.seminar_content>p {
+		font-size: 16px;
+		padding-top: 13px;
+		padding-bottom: 13px;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.seminar_content h3 {
+		font-size: 18px;
+		text-align: center;
+	}
+
+	/* =================================================
+			Admission to all courses Part End
+	================================================= */
+
+	/* =================================================
+				Free Seminar Part Start
+	================================================= */
+	.seminar {
+		padding: 16px 15px;
+		padding-top: 16px;
+		padding-bottom: 28px;
+	}
+
+	.seminar_content ul li {
+		margin-bottom: 19px;
+	}
+
+	.seminar_content ul li .date {
+		width: 20%;
+		font-size: 28px;
+		line-height: 28px;
+	}
+
+	.seminar_content ul li .text_main {
+		width: 80%;
+		padding: 10px 10px;
+	}
+
+	.seminar_content ul li .text_main .text h4 {
+		font-size: 18px;
+		line-height: 28px;
+	}
+
+	.seminar_content ul li .text_main .text p {
+		font-size: 12px;
+		line-height: 22px;
+		max-width: 142px;
+	}
+
+	.seminar_content .seminar_btn {
+		text-align: center;
+		padding-bottom: 37px;
+	}
+
+	.seminar_content .seminar_btn a {
+		padding: 10px 46px;
+	}
+
+	.free_seminar_img .seminar_dots {
+		bottom: -27px;
+		width: 53px;
+	}
+
+	/* =================================================
+				Free Seminar Part End
+	================================================= */
+
+	/* =================================================
+				Practical Project Start
+	================================================= */
+	.practical_project {
+		border-radius: 0;
+	}
+
+	#practical_project {
+		padding-top: 0;
+		padding-bottom: 46px;
+	}
+
+	.practical_project_img .prectical_dots {
+		top: -36px;
+		left: -20px;
+	}
+
+	.practical_project_text h2 {
+		font-size: 25px !important;
+		line-height: 33px;
+		padding-top: 46px;
+	}
+
+	.practical_project_text p {
+		font-size: 15px;
+		line-height: 25px;
+	}
+
+	/* =================================================
+				Practical Project End
+	================================================= */
+
+	/* =================================================
+				12 years of glory Part Start
+	================================================= */
+	#glory {
+		padding-bottom: 7px;
+	}
+
+	.glory_text {
+		text-align: center;
+	}
+
+	.glory_text h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-top: 22px;
+	}
+
+	.glory_text .glory_btn a {
+		padding: 10px 28px;
+	}
+
+	.glory_img {
+		padding-top: 54px;
+	}
+
+	/* =================================================
+				12 years of glory Part End
+	================================================= */
+
+	/* =================================================
+					Counter Part Start
+	================================================= */
+	.counter_up_item {
+		padding: 20px 20px;
+		margin-bottom: 22px;
+		text-align: center;
+	}
+
+	.counter_up_item p {
+		font-size: 14px;
+	}
+
+	/* =================================================
+					Counter Part End
+	================================================= */
+
+	/* =================================================
+					Company Part Start
+	================================================= */
+
+
+	.company_heading {
+		padding-bottom: 40px;
+	}
+
+	.company_heading h2 {
+		font-size: 31px;
+		line-height: 38px;
+	}
+
+	.company_menu ul li .company_nav_tab {
+		font-size: 11px;
+		line-height: 18px;
+		padding: 10px 0;
+	}
+
+	.company_item ul li span {
+		width: 50%;
+	}
+
+	/* =================================================
+					Company Part End
+	================================================= */
+
+	/* =================================================
+				Blog Part Start
+	================================================= */
+	#blog {
+		padding-top: 25px;
+		padding-bottom: 72px;
+	}
+
+	.blog_heading h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 35px;
+	}
+
+	.blog_item {
+		margin-bottom: 20px;
+	}
+
+	.blogPrevArrow.slick-arrow {
+		position: absolute;
+		top: 50%;
+		left: 7px;
+		-webkit-transform: translateY(-50%);
+		transform: translateY(-50%);
+		width: 40px;
+		height: 40px;
+		background: #ffffff;
+		text-align: center;
+		line-height: 40px;
+		border-radius: 50%;
+		color: rgba(0, 0, 0, 0.3);
+		font-size: 18px;
+		font-weight: 600;
+		z-index: 10;
+		-webkit-transition: all linear .3s;
+		transition: all linear .3s;
+		cursor: pointer;
+	}
+
+	.blogNextArrow.slick-arrow {
+		position: absolute;
+		top: 50%;
+		right: 7px;
+		-webkit-transform: translateY(-50%);
+		transform: translateY(-50%);
+		width: 40px;
+		height: 40px;
+		background: #ffffff;
+		text-align: center;
+		line-height: 40px;
+		border-radius: 50%;
+		color: rgba(0, 0, 0, 0.3);
+		font-size: 18px;
+		font-weight: 600;
+		z-index: 10;
+		-webkit-transition: all linear .3s;
+		transition: all linear .3s;
+		cursor: pointer;
+	}
+
+	.blogPrevArrow.slick-arrow:hover,
+	.blogNextArrow.slick-arrow:hover {
+		color: #FB312E;
+	}
+
+	/* =================================================
+				Blog Part End
+	================================================= */
+
+	/* ====================== Desing And Multimedia Page Responsive Start ========================== */
+	#our_facilities {
+		padding-top: 132px;
+	}
+
+	.facilities_heading p.desing_multi_peragraph {
+		padding-bottom: 45px;
+	}
+
+	.admission_item.course_single_item {
+		margin-bottom: 21px;
+		margin-top: 0;
+	}
+
+	/* ====================== Desing And Multimedia Page Responsive End ========================== */
+
+	/* ====================== About-Us Page Responsive Start ========================== */
+	/* =================================================
+				facilities_heading Part Start
+	================================================= */
+	.facilities_heading {
+		text-align: center;
+	}
+
+
+	.facilities_heading h2 {
+		font-size: 32px;
+		line-height: 45px;
+		padding-bottom: 16px;
+		padding-top: 45px;
+	}
+
+	.facilities_heading p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-bottom: 0;
+	}
+
+	/* =================================================
+				facilities_heading Part End
+	================================================= */
+
+	/* =================================================
+				about_top Part Start
+	================================================= */
+	#about_top .about_top_img {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: space-evenly;
+		-ms-flex-pack: space-evenly;
+		justify-content: space-evenly;
+		align-items: center;
+		padding-top: 35px;
+		padding-bottom: 32px;
+	}
+
+	#about_top .about_top_img .single_img {
+		margin: 0;
+	}
+
+	#virtual {
+		padding-bottom: 0;
+	}
+
+	#glory {
+		padding-bottom: 46px;
+	}
+
+	.glory_text h2 {
+		font-size: 22px;
+		line-height: 33px;
+		padding-top: 12px;
+	}
+
+	.glory_text p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-top: 32px;
+		padding-bottom: 30px;
+	}
+
+	#ceo {
+		margin-top: 60px;
+	}
+
+	.ceo_text p {
+		line-height: 25px;
+	}
+
+	.orjon {
+		padding-top: 42px;
+	}
+
+	.orjon ul {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.orjon ul li {
+		margin-right: 0;
+	}
+
+	#ceo>.container>.row:nth-child(2n) {
+		padding-top: 79px;
+	}
+
+	#iso {
+		padding-top: 80px;
+		padding-bottom: 80px;
+		background: #F8F8F8;
+		margin-top: 80px;
+	}
+
+	.iso_text {
+		text-align: center;
+	}
+
+	.iso_text h3 {
+		font-size: 22px;
+		line-height: 35px;
+		padding-bottom: 19px;
+		padding-top: 46px;
+	}
+
+	.iso_text p {
+		font-size: 14px;
+		line-height: 25px;
+	}
+
+	/* =================================================
+				about_top Part End
+	================================================= */
+
+	/* =================================================
+				Mission Part Start
+	================================================= */
+	#mission {
+		margin-top: 80px;
+	}
+
+	#mission .mission_menu {
+		border-radius: 0;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	#mission .mission_menu ul {
+		flex-direction: row;
+	}
+
+	#mission .mission_menu ul li {
+		font-size: 14px;
+		width: 20%;
+		display: flex;
+	}
+
+	#mission .mission_menu ul li button {
+		text-align: center;
+		line-height: 34px;
+		flex-direction: column;
+		padding-left: 0;
+		padding-right: 0;
+		border-top: 3px solid transparent;
+		border-left: 0 solid transparent;
+	}
+
+	#mission .mission_menu ul li button svg {
+		margin-right: 0;
+	}
+
+	#mission .mission_menu ul li button:hover {
+		border-left: 0px solid transparent;
+	}
+
+	#mission .mission_menu ul li button.active {
+		border-top: 3px solid #CF0000 !important;
+		border-left: 0px solid transparent !important;
+	}
+
+	#mission .mission_menu ul li button.active svg path {
+		fill: #CF0000 !important;
+	}
+
+	#mission .mission_menu ul li button:hover svg path {
+		fill: #CF0000 !important;
+	}
+
+	#mission .mission_menu ul li button svg path {
+		fill: rgba(0, 0, 0, 0.27) !important;
+	}
+
+	.nav-item:last-child button {
+		padding-top: 12px;
+	}
+
+	.mission_menu .nav-tabs {
+		border-bottom: 0px solid #dee2e6;
+	}
+
+	#mission .mission_body h3 {
+		padding-top: 31px;
+	}
+
+	#mission .mission_body p {
+		line-height: 25px;
+	}
+	#mission .mission_img {
+		margin-top: 16px;
+	}
+	/* =================================================
+				Mission Part End
+	================================================= */
+
+	/* =================================================
+				Countaer Up Part Start
+	================================================= */
+	#counter_up.about_counter_up h2 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+
+	#counter_up.about_counter_up .counter_up_item {
+		padding: 4px 16px;
+		margin-bottom: 20px;
+		min-height: 117px;
+	}
+    #counter_up.about_counter_up .counter_up_item p {
+        font-size: 11px;
+    }
+	.counter_up_item h5 {
+		font-size: 20px;
+        font-family: 'Roboto', sans-serif !important;
+	}
+
+	.counter_up_item p {
+		font-size: 12px;
+        line-height: 20px;
+		color: #605F62;
+	}
+    .pg_marketplace2{
+        padding-bottom: 0px;
+    }
+.pg_marketplace2 h2{
+    font-size: 25px;
+}
+	/* =================================================
+				Countaer Up Part End
+	================================================= */
+
+	/* =================================================
+				office_and_traning Part Start
+	================================================= */
+	#office_and_traning h2 {
+		font-size: 22px;
+		line-height: 33px;
+		margin-bottom: 23px;
+	}
+
+	.trainingPrevArrow.slick-arrow {
+		left: 2px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 14px;
+	}
+
+	.trainingNextArrow.slick-arrow {
+		right: 2px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 14px;
+	}
+
+	/* =================================================
+				office_and_traning Part End
+	================================================= */
+
+	/* =================================================
+				About Branch Part Start
+	================================================= */
+	#branch h2 {
+		font-size: 22px;
+		line-height: 33px;
+		margin-bottom: 28px;
+	}
+
+	.branch_item {
+		padding: 39px 33px;
+		margin-bottom: 15px;
+	}
+
+	/* =================================================
+				About Branch Part End
+	================================================= */
+
+	/* =================================================
+				training_department Part Start
+	================================================= */
+	#training_department {
+		margin-top: 87px;
+		margin-bottom: 79px;
+	}
+
+	#training_department h2 {
+		font-size: 22px;
+		line-height: 33px;
+		margin-bottom: 22px;
+	}
+	.training_department_main{
+		justify-content: space-evenly;
+	}
+	.training_department_main a {
+		width: 42%;
+		box-shadow: 5px 5px 60px rgba(0, 0, 0, 0.06);
+		border: none;
+		margin-right: 0;
+	}
+	.training_department_main a .training_department_item {
+		padding: 12px;
+	}
+
+	.training_department_main a .training_department_item .couse_text h3 {
+		padding-top: 16px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	/* =================================================
+				training_department Part End
+	================================================= */
+
+	/* ====================== About-Us Page Responsive End ========================== */
+
+	/* ====================== Course Landing Page Responsive Start ========================== */
+	#profe_graphic_banner {
+		background: url(../images/course-landing/sm-banner-bg.png) no-repeat top;
+		background-size: contain;
+		overflow: hidden;
+	}
+
+	.pink_shape img {
+		width: 118%;
+		transform: scale(1.5) rotate(47deg);
+	}
+
+	#profe_graphic_banner .yellow_shape {
+		z-index: -1;
+		transform: scale(2);
+	}
+
+	.pg_banner_text {
+		text-align: center;
+	}
+    .pg_banner_text  ul li span{
+        font-size: 16px;
+    }
+	.pg_banner_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+
+	.pg_banner_text h1 {
+		font-size: 28px;
+		line-height: 34px;
+		padding-top: 11px;
+	}
+
+	.pg_banner_text>h1 span {
+		font-size: 31px;
+		line-height: 37px;
+		background: #ff1e1e;
+		background: -webkit-linear-gradient(left, #e4655e, #ff1e1e);
+		background-clip: border-box;
+		background-clip: text;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		line-height: 72px;
+	}
+
+	.pg_banner_text ul {
+		display: flex;
+		justify-content: center;
+	}
+
+	.pg_banner_text>p {
+		padding-top: 24px;
+		padding-bottom: 24px;
+		font-size: 14px;
+		line-height: 25px;
+	}
+
+	.pg_banner_text .pg_banner_btn a {
+		font-size: 16px;
+		line-height: 24px;
+		padding: 10px 18px;
+		margin-right: 10px;
+	}
+
+	.pg_banner_text .stars p {
+		display: none;
+	}
+
+	.pg_banner_img {
+		margin-top: 36px;
+		border-radius: 20px;
+	}
+
+
+	.countdown_sm_device p {
+		color: #CF0000;
+		padding-top: 13px;
+		font-family: Ruposhi Bangla Unicode;
+		font-size: 15px;
+		font-weight: 400;
+		line-height: 29px;
+	}
+
+	#profe_graphic_banner .countdown_sm_device p span {
+		display: inline-block;
+		background: #FF7E31;
+		width: 60px;
+		text-align: center;
+		border-radius: 5px;
+		padding: 4px 5px 3px;
+		color: #fff !important;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 21px;
+		margin: 0 2px;
+	}
+
+	/* #profe_graphic_banner .countdown_sm_device p span:last-child{
+		width: 70px;
+	} */
+
+	/* Course overviwe start*/
+	.course_overviwe_text {
+		background: linear-gradient(127.39deg, #FFFFFF 2.83%, #ffffff 81.54%);
+		border: 9px solid #FFFFFF;
+		-webkit-box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.06);
+		box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.06);
+		border-radius: 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	.course_overviwe_text h2 {
+		font-size: 25px;
+		line-height: 38px;
+	}
+
+	.course_overviwe_text p {
+		text-align: justify;
+		font-size: 14px;
+		line-height: 21px;
+	}
+
+	.course_overviwe_text p span {
+		padding-top: 24px;
+		padding-bottom: 13px;
+	}
+
+	.course_overviwe_text ul {
+		margin-top: 25px;
+	}
+
+	.sm_device-show.d-block.d-sm-none {
+		margin-top: 70px;
+	}
+    .pgc_curriculum_wrap h3 {
+        font-size: 25px;
+    }
+	.pg_succsess_story .heading h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+
+	.pg_wait>h3 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+
+	.pg_wait {
+		padding: 23px 21px;
+	}
+	.pgc_curriculum_wrap .tab-content {
+		padding-top: 0;
+	}
+	.pgc_curriculum {
+		margin-top: 0;
+		background: #FAF9FD;
+		border-radius: 25px;
+		padding: 78px 32px;
+		padding-bottom: 25px;
+	}
+	.pgc_software {
+		padding: 66px 15px;
+		border-radius: 0;
+		margin-top: 80px;
+		text-align: center;
+	}
+
+	.pgc_software h3 {
+		font-size: 25px;
+		line-height: 33px;
+		padding-bottom: 33px;
+	}
+
+	.pgc_item ul li .pgcs_icon {
+		min-width: 36px;
+		height: 36px;
+		margin-right: 8px;
+		flex-basis: 35px;
+	}
+
+	.pgc_item ul li .pgcs_text p {
+		font-size: 15px;
+		line-height: 18px;
+	}
+
+	.pgc_for_whom {
+		padding: 78px 20px;
+		border-radius: 0;
+	}
+	.pgc_for_whom h3{
+		font-size:25px
+	}
+
+	.pgcf_whom_item {
+		padding-left: 15px;
+	}
+
+	.pgcf_whom_item .pgcf_whom_item_icon {
+		margin-left: 0;
+		width: 66px;
+		height: 66px;
+		background: linear-gradient(229.69deg, #FDF3FD 3.63%, rgba(253, 243, 253, 0.29) 98.73%);
+		border-radius: 22px;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.pgcf_whom_item .pgcf_whom_item_icon img {
+		width: 65%;
+	}
+
+	.pgcf_whom_item .pgcf_whom_item_text p {
+		font-size: 10px;
+        line-height: normal !important;
+        color: #605F62;
+		padding-top: 15px;
+		text-align: left;
+	}
+
+	.pg_marketplace {
+		padding: 80px 20px;
+	}
+
+	.pg_marketplace .marketplace_item {
+		border-radius: 0;
+	}
+
+	.pg_marketplace h2 {
+		padding-bottom: 20px;
+		text-align: center;
+        font-size:25px
+	}
+
+	.pg_marketplace .marketplace_item {
+		padding: 18px 20px;
+		border-radius: 30px;
+		margin-bottom: 27px;
+		background: #fff;
+	}
+
+	.pg_marketplace .marketplace_item .text p {
+		font-size: 14px;
+		line-height: 21px;
+	}
+
+	.pg_job {
+		padding: 30px 20px;
+	}
+
+	.pg_job h3 {
+		padding-bottom: 21px;
+        font-size:25px
+	}
+
+	.job_item ul li {
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+
+	.job_item ul li svg {
+		margin-right: 10px;
+	}
+
+	.pgs_facilitice>h3 {
+		font-size: 25px;
+		line-height: 38px;
+		text-align: center;
+	}
+
+	.pg_more_facilities_item h3 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+
+	.pgs_project h2 {
+		font-size: 25px;
+		line-height: 38px;
+		padding-bottom: 27px;
+		text-align: center;
+	}
+
+	.pg_student_feedback h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 27px;
+		text-align: center;
+	}
+
+	/* Course overviwe End*/
+	/* ====================== Course Landing Page Responsive End ========================== */
+
+	/* ====================== Course Landing Page-2 Responsive Start ========================== */
+	/* ============================================
+		Course landing page-2 Banner Satrt
+	============================================ */
+	#pro_gra_forwhom.course_landing_2 h2 {
+		font-size: 32px !important;
+		line-height: 38px;
+		padding-bottom: 45px;
+		text-align: center;
+	}
+
+	.pro_gra_for_whom_item {
+		margin-bottom: 36px;
+		gap: 34px;
+	}
+
+	.pro_gra_for_whom_item:last-child {
+		margin-bottom: 77px;
+	}
+
+	.pro_gra_for_whom_item .for_whom_content .for_whom_text h3 {
+		font-size: 18px;
+		line-height: 32px;
+		padding-bottom: 11px;
+	}
+
+	.pro_gra_for_whom_item .for_whom_content .for_whom_text p {
+		font-size: 14px;
+		line-height: 21px;
+	}
+
+	/* ============================================
+	Course landing page-2 Banner End
+	============================================ */
+
+	/* ============================================
+		For Small Device Start
+	============================================ */
+	.pg_succsess_story {
+		padding-left: 20px;
+	}
+	.sm_device_main {
+		margin-bottom: 79px;
+	}
+
+	.pg_wait .join_offline a {
+		line-height: 32px;
+		padding: 10px 63px;
+	}
+
+	/* ============================================
+		For Small Device End
+	============================================ */
+	/* ====================== Course Landing Page-2 Responsive End ========================== */
+
+
+	/* ====================== Success Story Page Start ========================== */
+	#success_story {
+		margin-top: 40px;
+	}
+	/* ====================== Success Story Page End ========================== */
+
+
+
+	/* =================================================
+					Footer Part Start
+	================================================= */
+	.footer_heading {
+		padding-bottom: 76px;
+	}
+
+	.footer_heading h2 {
+		font-size: 30px;
+	}
+	.footer_heading p{
+		margin: 0;
+	}
+
+	#footer .footer_right {
+		right: 0;
+		top: 44px;
+		width: 51px;
+	}
+
+	#footer .footer_left {
+		left: 0;
+		top: 43px;
+		width: 51px;
+	}
+
+	.footer_item_1 ul li .footer_icon {
+		margin-top: 5px;
+	}
+
+	.footer_item_2 ul li {
+		display: block;
+	}
+
+	.footer_heading .footer_btn a {
+		width: 134px;
+		font-size: 14px;
+		margin: 5px;
+		line-height: 46px;
+	}
+
+	.footer_item_1 ul li .footer_text span {
+		display: inline-block;
+		line-height: 28px;
+	}
+
+	.footer_item_1 ul li .footer_text span:nth-child(1) {
+		display: block;
+	}
+
+	.footer_item_1 ul li .footer_icon i {
+		font-size: 16px;
+	}
+
+	.footer_logo {
+		text-align: center;
+		margin-top: 38px;
+		margin-bottom: 38px;
+	}
+
+	.copy_text_sm_last {
+		order: 3;
+		padding-top: 38px;
+		padding-bottom: 38px;
+	}
+
+	.copy .copy_social_link {
+		text-align: center!important;
+	}
+	.footer_heading .footer_btn a{
+		margin-bottom: 15px!important;
+	}
+	.glory_text .glory_btn a:first-child{
+		margin-right: 5px!important;
+		margin-bottom: 15px!important;
+	}
+
+	/* =================================================
+					Footer Part End
+	================================================= */
+
+	/*========================================= Blog Details Page Start======================================== */
+	#blog_dtails_main .blog_dtails .heading h3 {
+		text-align: center;
+		}
+		#blog_dtails_main .blog_dtails .heading h2 {
+		color: #1F1E1E;
+		font-size: 22px;
+		line-height: 33px;
+		text-align: center;
+		}
+		#blog_dtails_main .blog_dtails .heading p {
+		padding-bottom: 35px;
+		padding-top: 16px;
+		}
+		#blog_dtails_main .blog_dtails .image {
+		margin-bottom: 28px;
+		}
+		#blog_dtails_main .blog_dtails .dtails p {
+		font-size: 14px;
+		line-height: 21px;
+		text-align: center;
+		}
+
+		#blog_dtails_main .blog_dtails .dtails h4 {
+		font-weight: 600;
+		line-height: 32px;
+		padding-top: 34px;
+		padding-bottom: 11px;
+		text-align: center;
+		}
+		#blog_dtails_main .blog_dtails {
+		padding-bottom: 39px;
+		}
+		.tag_share {
+		margin-top: 33px;
+		flex-wrap: wrap;
+		}
+		.tag_share .tag{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		}
+		.tag_share .tag label {
+		font-size: 16px;
+		font-weight: 600;
+		line-height: 24px;
+		padding-right: 5px;
+		}
+		.tag_share .tag a {
+		font-size: 14px;
+		font-weight: 500;
+		padding: 8px 13px;
+		margin-left: 0;
+		}
+		.tag_share .share a {
+		font-size: 17px;
+		width: 36px;
+		height: 36px;
+		background: #ffffff;
+		margin-left: 15px;
+		border-radius: 50%;
+		text-align: center;
+		line-height: 36px;
+		box-shadow: 5px 5px 40px rgba(0, 0, 0, 0.06);
+		}
+
+		.tag_share .share label {
+		font-size: 16px;
+		font-weight: 600;
+		line-height: 24px;
+		padding-right: 5px;
+		}
+		.tag_share .share{
+		margin-top: 30px;
+		}
+		.coures_discount {
+		margin-top: 90px;
+		}
+		.seminar_discount {
+		margin-top: 80px;
+		}
+
+		#letest_poet {
+		margin-top: 72px;
+		}
+		#letest_poet .letest_post_slider .slick-track {
+		gap: 0 0;
+		}
+		#letest_poet .prevarrow {
+		left: -14px;
+		cursor: pointer;
+		}
+		#letest_poet .nextarrow {
+		right: -14px;
+		cursor: pointer;
+		}
+		.related_post {
+		padding-bottom: 104px;
+		}
+	/*========================================= Blog Details Page End======================================== */
+
+	/*========================================= Blog Page Start======================================== */
+	.blog_heading_search .page_heading h3 {
+		font-size: 18px;
+		line-height: 32px;
+		padding-top: 12px;
+		}
+		.blog_heading_search .blog_search_bar input {
+		font-size: 13px;
+		font-weight: 500;
+		line-height: 24px;
+		padding-top: 14px;
+		padding-bottom: 12px;
+		padding-left: 10px;
+		padding-right: 30px;
+		}
+		.blog_heading_search .blog_search_bar {
+		margin-left: -50px;
+		}
+
+
+		.main_blog_grid .big_blog .layer_text {
+		padding: 0 20px 14px;
+		}
+		.main_blog_grid .big_blog .layer_text .text h3 {
+		font-size: 16px;
+		line-height: 24px;
+		padding-top: 5px;
+		padding-bottom: 0px;
+		}
+		.main_blog_grid .big_blog .layer_text .text p {
+		font-size: 12px;
+		}
+
+
+		.small_blog .layer_text .text h3 {
+		font-size: 16px;
+		line-height: 24px;
+		padding-top: 5px;
+		padding-bottom: 0px;
+		}
+
+		.small_blog .layer_text .text {
+		padding: 0 20px 14px;
+		}
+
+		/* lalala */
+		#letest_poet .letest_post_slider .post_item .text h5 {
+		font-size: 12px;
+		line-height: 24px;
+		}
+		.letest_post_slider .post_item .text h3 {
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 32px;
+		padding-top: 8px;
+		padding-bottom: 7px;
+		}
+		.all_blog_item .text {
+		padding: 8px;
+		}
+		.all_blog_item .text h3 {
+		font-size: 17px;
+		font-weight: 600;
+		line-height: 33px;
+		padding-top: 7px;
+		padding-bottom: 7px;
+		}
+
+		#all_blog .pagination_btn {
+		display: none;
+		}
+		#all_blog .dots_victor {
+		display: none;
+		}
+		#letest_poet .letest_post_slider .post_item .text h3 {
+		color: #1F1E1E;
+		font-family: Hind Siliguri;
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 32px;
+		padding-top: 4px;
+		padding-bottom: 4px;
+		}
+	/*========================================= Blog Page End======================================== */
+
+
+	/*========================================= Contact Us Page Start======================================== */
+	.facilities_heading h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 16px;
+		text-align: center;
+		padding-top: 45px;
+		}
+
+		.facilities_heading p {
+		font-size: 14px;
+		text-align: center;
+		}
+		#office_1 {
+		padding-top: 0;
+		}
+		.office_address_main .address_text h3 {
+		padding-bottom: 7px;
+		padding-top: 40px;
+		}
+
+		.office_address_main .phone_number h3 {
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 26px;
+		}
+
+		#question h3{
+		color: #CF0000;
+		text-align: center;
+		font-weight: 600;
+		font-size: 21px;
+		line-height: 30px;
+		padding-bottom: 45px;
+		}
+		#office_2 {
+		padding-bottom: 90px;
+		}
+		form.student_form .form-floating select,
+		form.student_form .form-floating textarea {
+		padding: 17px 6px;
+		border-radius: 10px;
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+		-ms-border-radius: 10px;
+		-o-border-radius: 10px;
+		}
+		#question .r_textarea{
+		height: 151px;
+		}
+		.course_free_facilities_btn {
+		margin-top: 40px;
+		padding-bottom: 82px;
+		text-align: center;
+		}
+	/*========================================= Contact Us Page End======================================== */
+
+
+	/*========================================= Free Seminer Page Start======================================== */
+	.facilities_heading h2 {
+		font-size: 32px;
+		line-height: 38px;
+		padding-bottom: 16px;
+		text-align: center;
+		padding-top: 45px;
+		}
+
+		.facilities_heading p {
+		font-size: 14px;
+		text-align: center;
+		}
+		#seminar {
+		padding-top: 0;
+		margin-bottom: 0;
+		}
+		.seminar {
+		padding: 20px 15px;
+		}
+		.success_menu {
+			padding-bottom: 20px;
+		}
+        .success_menu li .nav-link{
+            line-height: normal;
+        }
+        .success_menu li{
+            margin-right: 15px;
+        }
+	/*========================================= Free Seminer Page End======================================== */
+
+
+	/*========================================= instructor And Teacher Page Start======================================== */
+	#instructors_teachers {
+		margin-top: 130px;
+		padding-bottom: 0;
+	}
+	.instructors_item {
+		margin-bottom: 20px;
+		}
+		.instructor_profile {
+		background: #FFFFFF;
+		border: 3px solid rgba(207, 0, 0, 0.2);
+		border-radius: 30px;
+		padding: 23px 19px;
+		}
+		.instructor_profile_heading h2 {
+		font-size: 22px;
+		line-height: 33px;
+		padding-bottom: 7px;
+		padding-top: 22px;
+		text-align: center;
+		}
+		.instructor_profile_heading p {
+		font-size: 15px;
+		line-height: 26px;
+		text-align: center;
+		}
+		.instructor_profile_inner_item h4 {
+		font-size: 16px;
+		font-weight: 600;
+		line-height: 24px;
+		padding-top: 13px;
+		padding-bottom: 4px;
+		}
+		.market_icon img {
+		margin-right: 10px;
+		height: 23px;
+		}
+		.instructor_profile_inner_item .award_icon img{
+		height: 34px;
+		}
+		.instructor_profile_inner_item .award_icon img:last-child{
+		margin-right: 0;
+		}
+		#success_story .experiance {
+		padding-bottom: 0;
+		}
+
+		.single_profile_item {
+		flex-wrap: wrap;
+		justify-content: center;
+		}
+
+		.single_profile_item .single_profile_img {
+		width: 162px;
+		height: 162px;
+		border-radius: 50%;
+		margin-right: 0;
+		}
+
+		.single_profile_item .single_profile_img img {
+		width: 100%;
+		}
+		.single_profile_item .single_profile_name h4 {
+		font-size: 22px;
+		line-height: 33px;
+		padding-bottom: 7px;
+		padding-top: 22px;
+		text-align: center;
+		}
+		.single_profile_item .single_profile_name p {
+		font-size: 15px;
+		line-height: 26px;
+		text-align: center;
+		}
+		.instructor_profile_inner_item .inner_icon img {
+		height: 23px;
+		}
+		.single_instructor {
+		padding: 20px;
+		}
+	/*========================================= instructor And Teacher Page End======================================== */
+
+
+	/*========================================= Our Courses Page Start======================================== */
+	.courses_menu ul li {
+		width: 48%;
+		height: 157px;
+		margin-bottom: 11px;
+		}
+		.courses_menu ul li .course_menu_single_item h4 {
+		color: #1F1E1E;
+		font-size: 16px;
+		padding-top: 16px;
+		}
+		.facilities_heading p {
+		padding-bottom: 33px;
+		text-align: justify;
+		}
+		.section_heading p {
+		padding-bottom: 25px;
+		}
+	/*========================================= Our Courses Page End======================================== */
+
+
+	/*========================================= Our Facilitis Page Start======================================== */
+	.job_placement_contant p {
+		padding-left: 18px;
+	}
+	.job_placement_contant ul li h3 {
+		font-size: 22px;
+		line-height: 33px;
+		}
+		.job_placement_contant ul li {
+		font-size: 28px;
+		font-weight: normal;
+		line-height: 19px;
+		}
+		.job_placement {
+		padding-left: 0;
+		padding-right: 0;
+		}
+		.job_placement_contant p {
+		padding-bottom: 33px;
+		}
+		.jobplacement_partner ul li {
+		width: 47%;
+		}
+		.support_item {
+		padding-right: 20px;
+		padding-left: 20px;
+		}
+
+	/*========================================= Our Facilitis Page End======================================== */
+
+
+	/*========================================= Jony Page Start======================================== */
+		/* ==============================================================
+					Professonal Graphic You Page start
+	===============================================================*/
+	.admission_rule {
+		text-align: center;
+	}
+	#desktop_50_pgc {
+		padding-top: 140px;
+	}
+
+	#desktop_50_pgc h1 {
+		font-size: 27px;
+	}
+
+	#desktop_50_pgc p {
+		padding-bottom: 20px;
+	}
+
+	#course_free_facilities .course_free_facilities_heading h3 {
+		text-align: center;
+	}
+
+	.course_fee_box {
+		margin-top: 80px;
+	}
+
+	.admission_rule ul {
+		justify-content: center;
+	}
+
+	.pagination_main {
+		margin-top: 103px;
+	}
+
+	.course_free_facilities_btn {
+		margin-top: 65px;
+	}
+
+	/* ==============================================================
+					Professonal Graphic You Page start
+	===============================================================*/
+
+	/*========================================= Job placement Page Start======================================== */
+
+
+	.job_placement .jobplacement_partner ul li {
+		margin-left: 15px;
+		margin-right: 15px;
+		width: 18.4%;
+	}
+	/*========================================= Job placement Page End======================================== */
+
+	/* ==============================================================
+					Page 32 You Page start
+	===============================================================*/
+	.course_free_facilities_item:hover .hover_play_video {
+		left: 0px;
+	}
+
+	.hover_play_video {
+		margin-left: 12px;
+		width: 96%;
+		top: 42px;
+	}
+	.course_free_facilities_item_32:hover p {
+		padding-bottom: 74%;
+		transition: all linear .2s;
+	}
+	/* ==============================================================
+					Page 32 You Page start
+	===============================================================*/
+
+	/* ==============================================================
+					Page 33 You Page start
+	===============================================================*/
+	.extra_facilities_item:hover .hover_play_video {
+		left: 0px;
+		top: 70px;
+	}
+
+
+	/* ==============================================================
+					Page 33 You Page start
+	===============================================================*/
+
+	/* ==============================================================
+					Page 50 You Page start
+	===============================================================*/
+	.pgc_overviwe_text {
+		background: linear-gradient(127.39deg, #FFFFFF 2.83%, #FFE7E7 81.54%);
+		border-radius: 39px;
+		padding: 20px 12px;
+	}
+
+	.course_type_item {
+		margin-bottom: 20px;
+	}
+
+	#course_type .course_type_heading h3 {
+		text-align: center;
+	}
+
+	#course_type {
+		margin-top: 13px;
+	}
+
+	/* ==============================================================
+					Page 50 You Page start
+	===============================================================*/
+	/*========================================= Jpny Page End======================================== */
+	/*========================================= final change start======================================== */
+	/*===about us page start==*/
+	.section_heading3 p {
+		max-width: 90%;
+	}
+	.milestone_slider .card-body .card-title {
+		text-align: center;
+        padding-top: 30px;
+        font-size: 18px;
+	}
+	.milestone_slider .card-body {
+		padding-left: 20px;
+		padding-right:10px;
+	}
+    .milestone_slider .card-body .card-text {
+        font-size: 14px;
+    }
+
+	/* .section_heading h2, .course_cat_heading h1, .section_heading3 h2 {
+		font-size: 40px;
+	} */
+	.glory_text h2 {
+		font-size: 25px;
+        letter-spacing:0px;
+	}
+	/*===about us page end==*/
+	/*===Success story page start==*/
+	.facilities_heading h1 {
+		padding-top: 15px;
+		font-size: 25px;
+	}
+	/*===Success Story page end==*/
+	/*==freelancing page start==*/
+	.job_placement .jobplacement_partner ul li {
+		width: 37%!important;
+	}
+	/*==freelancing page end==*/
+	/*==Course page start==*/
+	.section_heading h2 {
+        font-size: 25px !important ;
+	}
+
+	.course-padding-area{
+		padding-bottom: 0;
+	}
+	/* #courseslide .populer_courses {
+		padding: 0 20px 20px;
+	} */
+	.course-addmission-item{
+		padding-bottom: 30px!important;
+	}
+	/*==Course page end==*/
+	/*==Gallery page start==*/
+	.gallery-padding-area {
+		padding-bottom: 50px;
+	}
+	/*==Gallery page end==*/
+	/*==single course page start==*/
+	.pg_wait .join_offline a {
+		line-height: 32px!important;
+	}
+	.pgc_curriculum {
+		padding: 35px 10px;
+		padding-bottom: 25px;
+	}
+	.pg_marketplace {
+		padding: 45px 20px;
+	}
+	/*==single course page end==*/
+	/*==job placement course page start==*/
+	.job_placement_contant_img {
+		margin-top: 32px;
+	}
+	/*==job placement course page end==*/
+	/*==student feedback page start==*/
+	.review-content{
+		margin-top: 20px;
+	}
+	/*==student feedback page end==*/
+	/*==15 years celebration page start==*/
+	#celebration_main {
+		padding-top: 135px;
+  }
+  .clebration_content {
+		padding: 0 0 0 20px;
+  }
+  .cashback_header h3 {
+		font-size: 32px;
+		line-height: 43px;
+  }
+  .cashback_header h4 {
+		font-size: 32px;
+		line-height: 43px;
+  }
+  .cashback_form {
+		padding: 40px;
+  }
+  #celebration_contact {
+		padding: 50px 0;
+  }
+  #celebration_contact .contact_header h3 {
+		line-height: 38px;
+		font-size: 32px;
+		margin-bottom: 32px;
+  }
+  #celebration_contact .contact-card {
+		margin-bottom: 20px;
+  }
+  #celebration_main .clebration_content p{
+		margin-top: 20px;
+  }
+  /*==15 years celebration page end==*/
+
+	/*========================================= final change End======================================== */
+}
+
+@media (max-width: 413px) {
+
+	/* ============================================
+		Populer Courses Start
+	============================================ */
+	.main_slider_courses .course_slider_top .course_slider_item {
+		background: #ffffff;
+		width: 177px !important;
+		height: 157px;
+		margin: 20px 0;
+		margin-right: 10px;
+	}
+
+	/* ============================================
+		Populer Courses End
+	============================================ */
+	/* ============================================
+		job_placement Star
+	============================================ */
+	.job_placement .jobplacement_partner ul li {
+		margin-left: 15px;
+		width: 40.4%;
+	}
+	/* ============================================
+		job_placement  End
+	============================================ */
+
+	/* ============================================
+		Desing And Multimedia page Start
+	============================================ */
+	.facilities_heading h2 {
+		font-size: 20px;
+	}
+
+	/* ============================================
+		Desing And Multimedia page End
+	============================================ */
+
+
+	/* ============================================
+		Course landing page Start
+	============================================ */
+	/* ============================================
+		Banner Part Start
+	============================================ */
+	.pg_banner_text h4 {
+		font-size: 17px;
+		line-height: 32px;
+	}
+
+	.pg_banner_text h1 {
+		font-size: 27px;
+		line-height: 35px;
+		padding-top: 11px;
+	}
+
+	.pg_banner_text>h1 span {
+		font-size: 29px;
+		line-height: 51px;
+	}
+
+	/* ============================================
+		Banner Part End
+	============================================ */
+	.pg_banner_text .pg_banner_btn a {
+		font-size: 15px;
+		line-height: 24px;
+		padding: 10px 20px;
+		margin-right: 8px;
+	}
+
+	.pg_wait .join_offline h4 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.pg_wait .join_offline p {
+		line-height: 24px;
+		padding-top: 6px;
+		padding-bottom: 13px;
+	}
+
+	.pg_wait .join_offline a {
+		line-height: 44px;
+		padding: 0 53px;
+	}
+
+	/*  যে সকল পজিশনে জব করতে পারবেন  Start*/
+	.pg_job {
+		padding: 30px 10px;
+	}
+
+	.job_item ul li {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+
+	/*  যে সকল পজিশনে জব করতে পারবেন  End*/
+
+	/* ============================================
+		Course landing page End
+	============================================ */
+
+	/* ============================================
+		Course landing page-2 Satrt-----------------------------
+	============================================ */
+	#pro_gra_forwhom h2 {
+		font-size: 32px !important;
+		line-height: 38px;
+		padding-bottom: 45px;
+		text-align: center;
+		background-color: #CF0000;
+	}
+
+	#pro_gra_forwhom h2 {
+		color: #ff0000;
+		font-family: Hind Siliguri;
+		font-size: 45px;
+		font-weight: 600;
+		line-height: 54px;
+		padding-bottom: 61px;
+		display: none;
+	}
+
+	/* ============================================
+		Course landing page-2 End
+	============================================ */
+
+	/*========================================= instructor And Teacher Page Start======================================== */
+	.market_icon img {
+		height: 36px;
+		}
+	/*========================================= instructor And Teacher Page End======================================== */
+
+
+	/*========================================= Jony Responsive Start======================================== */
+		/* ==============================================================
+						Thank You Page start
+	===============================================================*/
+	.thankyou_text h2 {
+		font-size: 50px;
+	}
+
+	.thankyou_text h4 {
+		font-size: 18px;
+	}
+
+	.thankyou_text .thankyou_btn {
+		margin-top: 30px;
+	}
+
+	.thankyou_text .thankyou_btn a {
+		width: 120px;
+	}
+
+	/* ==============================================================
+						Thank You Page start
+	===============================================================*/
+
+	/* ==============================================================
+					Professonal Graphic You Page start
+	===============================================================*/
+	#desktop_50_pgc h1 {
+		font-size: 32px;
+	}
+	/* ==============================================================
+					Professonal Graphic You Page start
+	===============================================================*/
+	/*========================================= Jony Responsive End======================================== */
+
+
+    .office_slide_item{
+        border-radius: 30px;
+    }
+  .office_slide_item img{
+    border-radius: 30px;
+    padding: 0px 10px;
+}
+.traning_slider_item img{
+    border-radius: 10px;
+}
+#student_success h2{
+    font-size: 20px;
+}
+.pgc_for_whom h3{
+    font-size: 19px ;
+}
+.course_mix_btn button span{
+    margin-left: 45px;
+}
+h1,h2{
+    font-size: 20px !important;
+}
+.pgs_facilitice>h3 {
+    font-size: 20px;
+    line-height: 29px;
+}
+p.ql-align-justify + p {
+    display: none;
+}
+p.ql-align-justify + p + p {
+    display: none;
+}
+}

@@ -1,0 +1,2808 @@
+Uri: https://www.creativeitinstitute.com/
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\index.htm
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/about-us
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/app/privacy-policy
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\app\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/assets/css/allnewsresponsive.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\allnewsresponsive.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/allnewsstyle.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\allnewsstyle.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/newresponsive.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\newresponsive.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/newstyle.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\newstyle.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/css/venobox.min.css
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\css\venobox.min.css
+Content Type: text/css
+
+Uri: https://www.creativeitinstitute.com/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.creativeitinstitute.com/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.creativeitinstitute.com/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.creativeitinstitute.com/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.creativeitinstitute.com/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.creativeitinstitute.com/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.creativeitinstitute.com/assets/images/course-landing/pg-wait-bg.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\course-landing\pg-wait-bg.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/course-landing/Pg_banner_shape1.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\course-landing\Pg_banner_shape1.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/course-landing/Pg_banner_shape2.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\course-landing\Pg_banner_shape2.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/course-landing/Pg_banner_shape3.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\course-landing\Pg_banner_shape3.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/course-landing/Pg_banner_shape4.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\course-landing\Pg_banner_shape4.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/course-landing/sm-banner-bg.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\course-landing\sm-banner-bg.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/banner_bg.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\banner_bg.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/Button-book.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\Button-book.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/call.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\call.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/Check.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\Check.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/offCanvasBg.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\offCanvasBg.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/Recommends.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\Recommends.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/toggole_menu.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\toggole_menu.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/home/top-mail.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\home\top-mail.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/hover-img.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\hover-img.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/minus-icon.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\minus-icon.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/images/plus-icon.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\images\plus-icon.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/assets/js/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/assets/js/script.js
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/assets/js/venobox.min.js
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\js\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/assets/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/assets/seminar_btn_bg.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\assets\seminar_btn_bg.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape-2.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape-2.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape-3.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape-3.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape-4.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape-4.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape-5.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape-5.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape-6.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape-6.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape-7.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape-7.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/banner_background/shape.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\banner_background\shape.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/bkash.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\bkash.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/book.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\book.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/career-placement-partners
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\career-placement-partners.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/career-placement-partners/
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\career-placement-partners\index.htm
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/comment_icon.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\comment_icon.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/contact-us
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/contact-us/
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/3d-floor-plan
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\3d-floor-plan.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/3d-product-modeling
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\3d-product-modeling.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/adobe-illustrator
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\adobe-illustrator.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/adobe-photoshop
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\adobe-photoshop.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/affiliate-marketing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\affiliate-marketing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/app-development-with-kotlin
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\app-development-with-kotlin.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/aws
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\aws.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/blender-for-everyone
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\blender-for-everyone.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/blockchain
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\blockchain.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/business-english
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\business-english.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/ccna-mtcna
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\ccna-mtcna.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/comptia-network
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\comptia-network.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/content-writing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\content-writing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/cyber-security-ethical-hacking
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\cyber-security-ethical-hacking.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/digital-marketing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/digital-product-design
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\digital-product-design.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/diploma-in-digital-marketing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\diploma-in-digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/diploma-in-full-stack-development
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\diploma-in-full-stack-development.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/diploma-in-graphics-animation
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\diploma-in-graphics-animation.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/front-end-development-with-react
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\front-end-development-with-react.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/google-adsense
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\google-adsense.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/image-editing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\image-editing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/it-infrastructure-cybersecurity-diploma
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\it-infrastructure-cybersecurity-diploma.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/mern-stack-development
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\mern-stack-development.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/mikrotik
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\mikrotik.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/motion-graphics
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\motion-graphics.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/professional-3d-animation
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\professional-3d-animation.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/professional-graphics-design
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\professional-graphics-design.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/professional-interior-exterior-design
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\professional-interior-exterior-design.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/python-django
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\python-django.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/python-machine-learning
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\python-machine-learning.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/search-engine-optimization
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\search-engine-optimization.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/social-media-marketing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\social-media-marketing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/spoken-english
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\spoken-english.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/ux-ui-design
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\ux-ui-design.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/video-editing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\video-editing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/voiceover-masterclass
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\voiceover-masterclass.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/web-design
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\web-design.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/courses/web-development
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\courses\web-development.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/1-year-diploma-programs
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\1-year-diploma-programs.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/3d-animation-visualization
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\3d-animation-visualization.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/cloud-computing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\cloud-computing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/cyber-security
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\cyber-security.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/digital-marketing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/english-language
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\english-language.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/film-media
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\film-media.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/graphic-multimedia
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\graphic-multimedia.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/networking-technology
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\networking-technology.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/department/web-software
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\department\web-software.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/faq
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\faq.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/free-seminar
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\free-seminar.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/free-seminar/
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\free-seminar\index.htm
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/free-seminar/1
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\free-seminar\1.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/free-seminar/3
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\free-seminar\3.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/free-seminar/4
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\free-seminar\4.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/free-seminar/6
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\free-seminar\6.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/freelance-market-place
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\freelance-market-place.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/freelancing
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\freelancing.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/gallery
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\gallery.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/icons/icon-144x144.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-192x192.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-192x192.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-256x256.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-256x256.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-384x384.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-384x384.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-48x48.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-48x48.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-512x512.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-512x512.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/icons/icon-96x96.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\icons\icon-96x96.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/banner1736683758.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\banner1736683758.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1662977138.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1662977138.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1662977433.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1662977433.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1662977457.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1662977457.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1662977515.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1662977515.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1662977700.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1662977700.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210396.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210396.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210419.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210419.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210513.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210513.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210534.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210534.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210549.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210549.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210636.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210636.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210644.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210644.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210689.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210689.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210700.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210700.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210729.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210729.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210747.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210747.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210756.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210756.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210768.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210768.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210794.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210794.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210883.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210883.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210904.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210904.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210972.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210972.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665210981.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665210981.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211019.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211019.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211067.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211067.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211081.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211081.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211087.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211087.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211093.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211093.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211106.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211106.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211117.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211117.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211127.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211127.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211138.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211138.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211143.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211143.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211150.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211150.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/career_placement_partner/career_placement_partner1665211157.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\career_placement_partner\career_placement_partner1665211157.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_milestone/cit_milestone1662974647.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_milestone\cit_milestone1662974647.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_milestone/cit_milestone1662974717.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_milestone\cit_milestone1662974717.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_milestone/cit_milestone1662974796.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_milestone\cit_milestone1662974796.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_milestone/cit_milestone1662974868.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_milestone\cit_milestone1662974868.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/10_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\10_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/10_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\10_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/10_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\10_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/10_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\10_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/11_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\11_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/11_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\11_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/11_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\11_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/11_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\11_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/12_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\12_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/12_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\12_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/12_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\12_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/12_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\12_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/13_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\13_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/13_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\13_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/13_partner_logo_1663044475.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\13_partner_logo_1663044475.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/14_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\14_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/14_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\14_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/14_partner_logo_1663044475.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\14_partner_logo_1663044475.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/15_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\15_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/15_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\15_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/15_partner_logo_1663044475.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\15_partner_logo_1663044475.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/1_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\1_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/1_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\1_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/1_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\1_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/1_partner_logo_1663044503.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\1_partner_logo_1663044503.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/1_partner_logo_1663044599.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\1_partner_logo_1663044599.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/1_partner_logo_1670826290.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\1_partner_logo_1670826290.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1663044503.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1663044503.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1663044599.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1663044599.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/2_partner_logo_1670826290.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\2_partner_logo_1670826290.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/3_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\3_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/3_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\3_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/3_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\3_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/3_partner_logo_1663044504.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\3_partner_logo_1663044504.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/3_partner_logo_1663044599.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\3_partner_logo_1663044599.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/3_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\3_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/4_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\4_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/4_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\4_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/4_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\4_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/4_partner_logo_1663044504.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\4_partner_logo_1663044504.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/4_partner_logo_1663044599.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\4_partner_logo_1663044599.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/4_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\4_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/5_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\5_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/5_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\5_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/5_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\5_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/5_partner_logo_1663044599.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\5_partner_logo_1663044599.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/5_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\5_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/6_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\6_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/6_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\6_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/6_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\6_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/6_partner_logo_1663044599.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\6_partner_logo_1663044599.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/7_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\7_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/7_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\7_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/7_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\7_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/8_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\8_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/8_partner_logo_1663044437.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\8_partner_logo_1663044437.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/8_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\8_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/8_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\8_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/9_partner_logo_1663044423.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\9_partner_logo_1663044423.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/9_partner_logo_1663044438.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\9_partner_logo_1663044438.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/9_partner_logo_1663044474.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\9_partner_logo_1663044474.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_partner/9_partner_logo_1663044837.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_partner\9_partner_logo_1663044837.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/10_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\10_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/11_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\11_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/12_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\12_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/13_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\13_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/14_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\14_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/15_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\15_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/16_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\16_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/17_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\17_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/18_cit_photo_wall_1663054470.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\18_cit_photo_wall_1663054470.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/19_cit_photo_wall_1663054470.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\19_cit_photo_wall_1663054470.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/1_cit_photo_wall_1663054468.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\1_cit_photo_wall_1663054468.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/20_cit_photo_wall_1663054470.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\20_cit_photo_wall_1663054470.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/2_cit_photo_wall_1663054468.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\2_cit_photo_wall_1663054468.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/3_cit_photo_wall_1663054468.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\3_cit_photo_wall_1663054468.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/4_cit_photo_wall_1663054468.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\4_cit_photo_wall_1663054468.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/5_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\5_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/6_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\6_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/7_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\7_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/8_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\8_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_photo_wall/9_cit_photo_wall_1663054469.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_photo_wall\9_cit_photo_wall_1663054469.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_banner1663040124.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_banner1663040124.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_banner1663040686.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_banner1663040686.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_banner1663040729.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_banner1663040729.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_banner1663040776.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_banner1663040776.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_banner1663054747.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_banner1663054747.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_icon1684059663.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_icon1684059663.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_icon1684059696.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_icon1684059696.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_icon1684059726.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_icon1684059726.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/cit_statement/cit_statement_icon1684059737.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\cit_statement\cit_statement_icon1684059737.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662552115.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662552115.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662637290.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662637290.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662639286.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662639286.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662724358.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662724358.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662791772.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662791772.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662795698.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662795698.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662801340.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662801340.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662804460.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662804460.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662866125.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662866125.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1662962744.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1662962744.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052023.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052023.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052056.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052056.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052131.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052131.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052296.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052296.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052405.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052405.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052435.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052435.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052460.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052460.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052587.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052587.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663052637.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663052637.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663482069.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663482069.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663654149.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663654149.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663654396.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663654396.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663655990.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663655990.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1663665537.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1663665537.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1664447952.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1664447952.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1665409737.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1665409737.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1668488066.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1668488066.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1673929467.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1673929467.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1674371266.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1674371266.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1674372625.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1674372625.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1682738408.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1682738408.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1682738473.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1682738473.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1710225806.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1710225806.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1710226869.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1710226869.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1710228408.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1710228408.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1728210573.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1728210573.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1728213171.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1728213171.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1728383809.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1728383809.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/course/course_1728383943.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\course\course_1728383943.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/department/3d.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\3d.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/aws.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\aws.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/cy.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\cy.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/dm.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\dm.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/gd.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\gd.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/icon_image1728209182.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\icon_image1728209182.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/lg.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\lg.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/net.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\net.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/ve.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\ve.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/department/wd.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\department\wd.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/featured/02_default.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\featured\02_default.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/featured/featured_text_one_image1662023354.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\featured\featured_text_one_image1662023354.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/home/seminar1710745757.JPG
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\home\seminar1710745757.JPG
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/iso_certificate/iso-certification.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\iso_certificate\iso-certification.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/job_placement_overview/job_placement_overview1663052801.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\job_placement_overview\job_placement_overview1663052801.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/job_placement_overview/job_placement_overview1663052819.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\job_placement_overview\job_placement_overview1663052819.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/job_placement_overview/job_placement_overview1663052866.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\job_placement_overview\job_placement_overview1663052866.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/job_placement_overview/job_placement_overview1663052886.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\job_placement_overview\job_placement_overview1663052886.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/logo/logo1718088965.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\logo\logo1718088965.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662292957.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662292957.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662292981.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662292981.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293000.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293000.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293017.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293017.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293041.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293041.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293058.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293058.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293072.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293072.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293093.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293093.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293111.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293111.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293128.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293128.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293143.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293143.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293160.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293160.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293177.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293177.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662293208.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662293208.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369013.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369013.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369061.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369061.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369085.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369085.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369105.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369105.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369128.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369128.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369153.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369153.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369170.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369170.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369198.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369198.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369221.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369221.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369246.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369246.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369264.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369264.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369297.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369297.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369331.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369331.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369352.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369352.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369365.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369365.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369412.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369412.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369430.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369430.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369446.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369446.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369463.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369463.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369489.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369489.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369506.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369506.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369520.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369520.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369559.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369559.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369577.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369577.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369593.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369593.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369611.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369611.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369623.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369623.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662369639.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662369639.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371418.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371418.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371439.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371439.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371456.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371456.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371472.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371472.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371491.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371491.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371522.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371522.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371554.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371554.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371577.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371577.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662371619.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662371619.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662372090.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662372090.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662372132.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662372132.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662372155.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662372155.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662372191.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662372191.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662372211.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662372211.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662372262.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662372262.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662446690.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662446690.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662446732.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662446732.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447256.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447256.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447294.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447294.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447313.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447313.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447336.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447336.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447390.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447390.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447412.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447412.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447462.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447462.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447478.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447478.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447500.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447500.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447529.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447529.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447557.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447557.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447574.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447574.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447890.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447890.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662447910.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662447910.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662448951.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662448951.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662448968.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662448968.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449020.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449020.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449034.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449034.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449052.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449052.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449067.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449067.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449080.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449080.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449096.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449096.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449119.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449119.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449132.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449132.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449161.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449161.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449184.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449184.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449295.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449295.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449317.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449317.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449332.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449332.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449351.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449351.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449366.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449366.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449381.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449381.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449395.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449395.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449415.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449415.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449428.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449428.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449450.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449450.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449464.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449464.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449479.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449479.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449491.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449491.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449511.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449511.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449526.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449526.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662449546.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662449546.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662453576.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662453576.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662453590.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662453590.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662453918.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662453918.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662453937.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662453937.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966157.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966157.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966205.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966205.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966225.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966225.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966252.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966252.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966277.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966277.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966303.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966303.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966321.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966321.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966366.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966366.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966399.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966399.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966442.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966442.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966468.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966468.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966499.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966499.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966563.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966563.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966596.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966596.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966621.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966621.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966666.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966666.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662966829.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662966829.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662967811.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662967811.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1662967888.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1662967888.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663065341.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663065341.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663651346.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663651346.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663651730.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663651730.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663651917.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663651917.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663651933.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663651933.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663652155.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663652155.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663652263.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663652263.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663652889.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663652889.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663653110.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663653110.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663653473.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663653473.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663654588.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663654588.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663655300.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663655300.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663656192.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663656192.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663661227.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663661227.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663661244.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663661244.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663661298.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663661298.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663664293.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663664293.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1663843938.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1663843938.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1664447544.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1664447544.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665139532.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665139532.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665140218.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665140218.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665141076.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665141076.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665200866.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665200866.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665201719.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665201719.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665237447.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665237447.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665298505.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665298505.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1665299633.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1665299633.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1672728369.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1672728369.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1680164483.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1680164483.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1710227570.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1710227570.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1710227601.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1710227601.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1710228480.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1710228480.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1711349036.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1711349036.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1711349051.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1711349051.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1711349078.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1711349078.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1722337605.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1722337605.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303061.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303061.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303077.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303077.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303093.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303093.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303106.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303106.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303117.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303117.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303130.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303130.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303150.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303150.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303199.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303199.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728303224.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728303224.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728368661.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728368661.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728368709.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728368709.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728369090.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728369090.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728369111.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728369111.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728369355.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728369355.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/option/option1728369386.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\option\option1728369386.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/our_achievement_page/default.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_achievement_page\default.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662967255.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662967255.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662978859.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662978859.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662978985.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662978985.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662979043.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662979043.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662979197.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662979197.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662979371.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662979371.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_facility/our_facility1662979637.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_facility\our_facility1662979637.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/15_our_gallery_1663570233.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\15_our_gallery_1663570233.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/15_our_gallery_1663570343.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\15_our_gallery_1663570343.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/15_our_gallery_1663570626.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\15_our_gallery_1663570626.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/16_our_gallery_1663570233.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\16_our_gallery_1663570233.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/16_our_gallery_1663570343.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\16_our_gallery_1663570343.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/16_our_gallery_1663570627.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\16_our_gallery_1663570627.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/17_our_gallery_1663570234.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\17_our_gallery_1663570234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/17_our_gallery_1663570343.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\17_our_gallery_1663570343.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/17_our_gallery_1663570627.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\17_our_gallery_1663570627.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/18_our_gallery_1663570234.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\18_our_gallery_1663570234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/18_our_gallery_1663570343.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\18_our_gallery_1663570343.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/18_our_gallery_1663570627.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\18_our_gallery_1663570627.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/19_our_gallery_1663570234.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\19_our_gallery_1663570234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/19_our_gallery_1663570344.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\19_our_gallery_1663570344.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/19_our_gallery_1663570627.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\19_our_gallery_1663570627.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/20_our_gallery_1663570234.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\20_our_gallery_1663570234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/20_our_gallery_1663570344.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\20_our_gallery_1663570344.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/our_gallery/20_our_gallery_1663570628.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\our_gallery\20_our_gallery_1663570628.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/10_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\10_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/10_course_1662718687.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\10_course_1662718687.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/11_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\11_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/11_course_1662718687.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\11_course_1662718687.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/14_course_1662549600.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\14_course_1662549600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/15_course_1662549600.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\15_course_1662549600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/16_course_1662549600.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\16_course_1662549600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/17_course_1662549600.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\17_course_1662549600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/18_course_1662549600.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\18_course_1662549600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/19_course_1662549601.PNG
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\19_course_1662549601.PNG
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662549598.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662549598.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662637290.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662637290.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662637833.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662637833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662639286.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662639286.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662718685.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662718685.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662792400.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662792400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662793725.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662793725.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662795699.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662795699.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662799773.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662799773.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/1_course_1662801340.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\1_course_1662801340.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662549598.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662549598.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662637290.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662637290.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662637834.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662637834.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662639287.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662639287.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662718685.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662718685.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662792400.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662792400.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662793727.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662793727.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662795700.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662795700.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662799773.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662799773.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/2_course_1662801340.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\2_course_1662801340.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662549598.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662549598.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662637290.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662637290.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662637834.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662637834.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662639287.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662639287.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662718686.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662718686.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662792402.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662792402.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662793728.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662793728.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662795700.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662795700.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/3_course_1662799773.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\3_course_1662799773.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/4_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\4_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/4_course_1662637291.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\4_course_1662637291.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/4_course_1662639287.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\4_course_1662639287.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/4_course_1662793728.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\4_course_1662793728.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/4_course_1662795700.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\4_course_1662795700.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/4_course_1662799774.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\4_course_1662799774.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662637291.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662637291.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662639287.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662639287.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662718686.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662718686.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662792403.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662792403.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662793728.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662793728.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662795700.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662795700.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/5_course_1662799774.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\5_course_1662799774.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662637291.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662637291.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662639287.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662639287.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662718686.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662718686.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662792404.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662792404.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662795700.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662795700.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/6_course_1662799774.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\6_course_1662799774.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/7_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\7_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/7_course_1662637291.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\7_course_1662637291.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/7_course_1662718686.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\7_course_1662718686.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/7_course_1662795701.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\7_course_1662795701.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/7_course_1662799774.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\7_course_1662799774.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/8_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\8_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/8_course_1662637291.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\8_course_1662637291.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/8_course_1662718686.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\8_course_1662718686.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/8_course_1662799774.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\8_course_1662799774.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/student_work/9_course_1662549599.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\9_course_1662549599.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/9_course_1662637291.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\9_course_1662637291.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/student_work/9_course_1662718687.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\student_work\9_course_1662718687.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1662632715.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1662632715.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1662632899.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1662632899.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1662634037.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1662634037.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1666326111.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1666326111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1666326188.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1666326188.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1666326209.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1666326209.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1666326234.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1666326234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1666326261.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1666326261.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/success_story/success_story1666326280.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\success_story\success_story1666326280.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663059988.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663059988.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663062038.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663062038.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663062972.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663062972.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663064594.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663064594.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663064826.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663064826.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663065077.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663065077.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663065271.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663065271.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663068709.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663068709.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663068841.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663068841.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663069000.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663069000.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663069365.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663069365.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663069904.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663069904.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663070034.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663070034.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663070243.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663070243.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663071584.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663071584.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663141597.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663141597.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663150293.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663150293.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663150739.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663150739.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663151929.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663151929.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663153282.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663153282.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663154624.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663154624.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663499071.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663499071.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663499328.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663499328.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663499442.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663499442.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663569581.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663569581.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1663650071.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1663650071.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1664519546.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1664519546.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1667471948.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1667471948.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1667474306.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1667474306.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1667979952.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1667979952.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1669268993.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1669268993.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1695711150.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1695711150.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1695712030.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1695712030.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1695722125.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1695722125.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696400818.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696400818.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696401250.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696401250.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696401484.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696401484.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696402901.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696402901.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696403112.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696403112.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696403351.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696403351.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696403589.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696403589.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1696757656.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1696757656.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1705576961.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1705576961.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1705577537.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1705577537.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1705581036.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1705581036.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1705581617.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1705581617.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1705581950.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1705581950.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1706089888.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1706089888.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1706089999.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1706089999.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1718270271.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1718270271.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1718270362.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1718270362.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1722337495.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1722337495.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1722337733.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1722337733.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1722338046.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1722338046.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1722338534.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1722338534.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1723983176.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1723983176.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1724824420.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1724824420.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1724824630.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1724824630.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725174926.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725174926.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725175378.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725175378.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725175695.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725175695.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725183835.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725183835.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725184687.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725184687.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725195236.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725195236.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725249440.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725249440.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725249631.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725249631.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725249850.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725249850.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725250147.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725250147.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1725867181.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1725867181.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1726660106.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1726660106.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1727329594.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1727329594.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1728302620.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1728302620.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1733031421.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1733031421.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1733035582.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1733035582.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1733308813.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1733308813.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher/teacher1734943320.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher\teacher1734943320.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher_page/default-1.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher_page\default-1.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher_page/default-2.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher_page\default-2.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/images/teacher_page/default-3.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\images\teacher_page\default-3.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/instructors-teachers
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\instructors-teachers.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/iso.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\iso.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/job-placement
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\job-placement.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/livewire/livewire.js?id=de3fca26689cb5a39af4
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\livewire\livewire.js
+Content Type: application/javascript
+
+Uri: https://www.creativeitinstitute.com/logo.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\logo.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/nagad_marchant.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\nagad_marchant.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/our-achievements
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\our-achievements.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/our-courses
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\our-courses.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/our-facilities
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\our-facilities.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/payment
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\payment.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/11
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\11.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/13
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\13.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/14
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\14.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/16
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\16.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/24
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\24.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/25
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\25.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/register-for-free-seminar/32
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\register-for-free-seminar\32.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/rocket.png
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\rocket.png
+Content Type: image/png
+
+Uri: https://www.creativeitinstitute.com/sitemap
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\sitemap.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/sslcommerz.jpg
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\sslcommerz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.creativeitinstitute.com/student-feedback
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\student-feedback.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/success-story
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\success-story.html
+Content Type: text/html
+
+Uri: https://www.creativeitinstitute.com/terms/conditions
+File Name: C:\Downloaded Web Sites\www.creativeitinstitute.com\terms\conditions.html
+Content Type: text/html
+

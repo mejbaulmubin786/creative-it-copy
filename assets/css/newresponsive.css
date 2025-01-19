@@ -1,0 +1,312 @@
+@media (min-width: 768px) and (max-width: 991.98px){
+    .discount_course {
+        font-size: 12px;
+        padding: 6px 5px;
+        margin-top: -11px;
+    }
+}
+
+@media (max-width: 575.98px){
+
+    .discount_inner_wrapper {
+        padding: 15px 15px;
+    }
+    .margin{
+        margin-top: 20px;
+    }
+    .success_discount {
+        width: 390px;
+    }
+    /* ============================================
+		common section  Start
+	============================================ */
+    .section_heading2 p, .section_heading3 p {
+        font-size: 14px;
+    }
+    /* #glory {
+        padding-top: 0;
+    } */
+    /* ============================================
+		common section  ends
+	============================================ */
+    /* ============================================
+		home page  Start
+	============================================ */
+    .home_banner {
+        padding-bottom: 140px;
+    }
+    .course_slider_top .course_slider_item {
+        margin: 10px 8px;
+    }
+    #courseslide .populer_courses {
+        padding: 0 20px 0px;
+    }
+    #company {
+        padding-top: 35px;
+    }
+    .company_heading h2 {
+        line-height: 32px;
+    }
+    #student_success .section_heading h2{
+        padding-top: 0;
+    }
+    #practical_project{
+        padding-top: 60px;
+    }
+    .seminar {
+        margin-top: 60px;
+    }
+    .seminer_schedule{
+        margin-top: 0;
+    }
+    .more_facilities_btn a {
+        padding: 10px 0;
+    }
+    .counte_item_xsm h4{
+        font-family: 'roboto', sans-serif !important;
+    }
+    .counte_item:last-child {
+        padding-bottom: 25px;
+    }
+    .more_facilities_item{
+        padding: 40px 35px;
+    }
+    .virtual {
+        padding-bottom: 40px;
+    }
+    #virtual .virtual span {
+        height: 506px;
+    }
+    #virtual .virtual span iframe {
+        width: 100%;
+        min-height: 200px;
+        border-radius: 33px;
+    }
+    #virtual .virtual span iframe {
+        height: 500px;
+        border-radius: 33px;
+    }
+    #practical_project {
+        padding-bottom: 0px;
+    }
+    /* ============================================
+		home page  ends
+	============================================ */
+    /* ============================================
+		our-courses Start
+	============================================ */
+    #student_feedback .slick-slider .prevarrow {
+        left: -12px!important;
+    }
+    #student_feedback .slick-slider .nextarrow {
+        right: -12px!important;
+    }
+	/* ============================================
+		our-courses Start
+	============================================ */
+
+    /* ============================================
+		Glory section starts
+	============================================ */
+    .counter_up_item p {
+        line-height: 22px!important;
+    }
+    /* ============================================
+		Glory section ends
+	============================================ */
+    /* ============================================
+		freelancing page section starts
+	============================================ */
+    /* .trainingPrevArrow.slick-arrow {
+        left: 0px;
+    }
+    .trainingNextArrow.slick-arrow {
+        right: 0px;
+    } */
+    .job_placement_contant p {
+        padding-right: 20px;
+    }
+    .facilities_heading h1 {
+        padding-bottom: 0px;
+    }
+    #instructors_teachers {
+        margin-top: 90px;
+    }
+    .facilities-placement {
+        margin-top: 22px;
+    }
+    .pgc_for_whom {
+        padding: 45px 20px;
+        border-radius: 0;
+    }
+    .pg_marketplace2 {
+        margin-top: 0px;
+    }
+    /* ============================================
+		freelancing page section ends
+	============================================ */
+    /* ============================================
+		single course page section starts
+	============================================ */
+    .pg_banner_text h1 {
+        padding-top: 5px;
+    }
+    .pg_banner_text .course_desc_article p {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .pgcf_whom_item .pgcf_whom_item_text p{
+        font-size: 12px;
+    }
+    .pg_job h3 {
+        padding-left: 20px;
+    }
+    .job_item ul li {
+        padding-left: 20px;
+    }
+    .pg_banner_text h4 {
+        margin-top: -40px;
+        font-weight: 700!important;
+        line-height: 25px;
+    }
+    .pg_banner_text ul li{
+        font-family: 'Roboto', sans-serif !important;
+    }
+    .pg_banner_text ul li span{
+        font-size: 19px;
+    }
+    .course_overviwe_text p{
+        font-family: 'Roboto', sans-serif !important;
+        color: #605f62!important;
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    .marketplace_item span{
+        font-family: 'Roboto', sans-serif !important;
+        color: #605f62!important;
+        text-align: justify;
+    }
+
+    .pgc_curriculum_wrap {
+        padding-bottom: 0;
+        padding: 20px;
+    }
+    .pgc_curriculum > ul > li {
+        padding-bottom: 0;
+    }
+    .pgc_curriculum {
+        padding: 15px 10px;
+    }
+
+    .pgc_software {
+        padding-bottom: 20px;
+        border-radius: 25px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    .pgc_software h3{
+        font-size: 24px;
+    }
+    .pgc_for_whom {
+        border-radius: 25px;
+    }
+    .pgs_project {
+        margin-top: 20px;
+    }
+    #pg_course_overviwe {
+        padding-bottom: 20px;
+    }
+    .pgcf_whom_item {
+        margin-bottom: 20px;
+        text-align: center;
+        padding: 15px;
+        background: #ffffff;
+        border-radius: 30px;
+    }
+
+    .pgcf_whom_item .pgcf_whom_item_icon {
+        margin-left: 0;
+        height: 120px;
+        width: auto;
+        background: linear-gradient(229.69deg, #FDF3FD 3.63%, rgba(253, 243, 253, 0.29) 98.73%);
+        border-radius: 22px;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .pgcf_whom_item .pgcf_whom_item_text p {
+        text-align: center !important;
+        padding-top: 13px;
+    }
+    /* ============================================
+		single course page section ends
+	============================================ */
+    /* ============================================
+		about us page section starts
+	============================================ */
+    .milestone_slider .card-body .card-title {
+        padding-top: 15px;
+    }
+    .milestone_slider_bg .slick-slider .prevarrow {
+        left: -21px!important;
+    }
+    .milestone_slider_bg .slick-slider .nextarrow {
+        right: -21px!important;
+    }
+    #iso {
+        margin-top: 40px;
+    }
+    #office_and_traning {
+        margin-top: 50px;
+    }
+    #training_department {
+        margin-top: 50px;
+    }
+    #course_head{
+        padding-top: 0;
+    }
+    /* ============================================
+		about us page section ends
+	============================================ */
+    /* ============================================
+		success story section starts
+	============================================ */
+    .success_menu {
+        padding-bottom: 0;
+    }
+    .accordion-body {
+        font-size: 14px;
+    }
+    /* ============================================
+		success story section ends
+	============================================ */
+    /* ============================================
+		jobplacement  starts here
+	============================================ */
+    .job_placement_contant p span {
+        padding-top: 0;
+    }
+    .jobplacement_partner {
+        margin-top: 59px;
+    }
+    .job_placement_contant p span{
+        background-color: transparent;
+        color: #605f62!important;
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 15px;
+    }
+    .support_item{
+        padding-top: 15px;
+    }
+    .support_item h3 {
+        font-size: 24px!important;
+        padding-top: 15px;
+    }
+    /* ============================================
+		jobplacement  ends here
+	============================================ */
+}
+
+
+
